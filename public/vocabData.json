@@ -1,0 +1,4847 @@
+[
+  {
+    "word": "Abate",
+    "meaning": "To reduce in intensity",
+    "synonyms": ["Lessen", "Diminish", "Decrease"],
+    "trick": "Aate ka bhaav abate ho gaya – kam ho gaya"
+  },
+  {
+    "word": "Abstain",
+    "meaning": "To hold back voluntarily",
+    "synonyms": ["Refrain", "Avoid", "Withhold"],
+    "trick": "Stain se bachne ke liye abstain karo"
+  },
+  {
+    "word": "Adept",
+    "meaning": "Skilled",
+    "synonyms": ["Proficient", "Expert", "Talented"],
+    "trick": "A+ dept mein kaam karta hai – skilled hai"
+  },
+  {
+    "word": "Adulterate",
+    "meaning": "To make impure",
+    "synonyms": ["Contaminate", "Pollute", "Dilute"],
+    "trick": "Adult-rated content mein masala hota hai – adulterated!"
+  },
+  {
+    "word": "Alleviate",
+    "meaning": "To relieve or lessen",
+    "synonyms": ["Ease", "Reduce", "Soothe"],
+    "trick": "Ali ke weight uthake uska dard alleviate ho gaya"
+  },
+  {
+    "word": "Apathy",
+    "meaning": "Lack of interest or emotion",
+    "synonyms": ["Indifference", "Lethargy", "Disinterest"],
+    "trick": "Pathy ka matlab feeling, aur apathy = no feeling"
+  },
+  {
+    "word": "Avarice",
+    "meaning": "Extreme greed",
+    "synonyms": ["Greed", "Materialism", "Covetousness"],
+    "trick": "Aamir Khan ke paas avarice hai paisa ka"
+  },
+  {
+    "word": "Ameliorate",
+    "meaning": "To make better or improve",
+    "synonyms": ["Improve", "Enhance", "Refine"],
+    "trick": "Meal better karne ke liye ameliorate sauce daala"
+  },
+  {
+    "word": "Anomaly",
+    "meaning": "Something that deviates from the norm",
+    "synonyms": ["Irregularity", "Oddity", "Abnormality"],
+    "trick": "Normally nahi hua – anomaly ho gaya"
+  },
+  {
+    "word": "Audacious",
+    "meaning": "Fearlessly bold or daring",
+    "synonyms": ["Bold", "Daring", "Fearless"],
+    "trick": "Audi chalane wala audacious hota hai – fearless banda"
+  },
+  {
+    "word": "Ascetic",
+    "meaning": "One who practices strict self-discipline",
+    "synonyms": ["Monk", "Hermit", "Self-denying"],
+    "trick": "Aise tik-tik rehta hai – sab se alag, ascetic"
+  },
+  {
+    "word": "Abridge",
+    "meaning": "To shorten without losing meaning",
+    "synonyms": ["Shorten", "Condense", "Trim"],
+    "trick": "A bridge bana diya shortcut mein – abridge ho gaya route"
+  },
+  {
+    "word": "Apprehensive",
+    "meaning": "Worried or anxious",
+    "synonyms": ["Anxious", "Uneasy", "Nervous"],
+    "trick": "Interview ke pehle sab apprehensive feel karte hai"
+  },
+  {
+    "word": "Ambiguous",
+    "meaning": "Open to more than one interpretation",
+    "synonyms": ["Unclear", "Vague", "Equivocal"],
+    "trick": "Ambi (double) meaning – ambiguous"
+  },
+  {
+    "word": "Abhor",
+    "meaning": "To hate deeply",
+    "synonyms": ["Hate", "Detest", "Loathe"],
+    "trick": "Abe horror film se abhor karta hoon – hate it!"
+  },
+  {
+    "word": "Allude",
+    "meaning": "To refer indirectly",
+    "synonyms": ["Hint", "Suggest", "Imply"],
+    "trick": "Aalu de ke allude kar gaya ki bhookha hoon"
+  },
+  {
+    "word": "Arduous",
+    "meaning": "Difficult and tiring",
+    "synonyms": ["Tough", "Demanding", "Laborious"],
+    "trick": "Aadmi ro raha hai – kaam bahut arduous tha"
+  },
+  {
+    "word": "Affluent",
+    "meaning": "Wealthy and rich",
+    "synonyms": ["Wealthy", "Prosperous", "Well-off"],
+    "trick": "Fluent English bolta hai – obviously affluent hoga!"
+  },
+  {
+    "word": "Amicable",
+    "meaning": "Friendly and peaceful",
+    "synonyms": ["Friendly", "Cordial", "Good-natured"],
+    "trick": "Ami (friend) + cable – friend ke sath TV cable peacefully baata"
+  },
+  {
+    "word": "Apprise",
+    "meaning": "To inform or notify",
+    "synonyms": ["Inform", "Notify", "Update"],
+    "trick": "A price badhne ka apprise de do"
+  },
+  {
+    "word": "Articulate",
+    "meaning": "Able to express clearly",
+    "synonyms": ["Expressive", "Coherent", "Fluent"],
+    "trick": "Artist clear se bolta hai – articulate hai"
+  },
+  {
+    "word": "Arbitrary",
+    "meaning": "Based on random choice or personal whim",
+    "synonyms": ["Random", "Unpredictable", "Whimsical"],
+    "trick": "Arbit (law college short form) wale decision lete arbitrary tarike se"
+  },
+  {
+    "word": "Absolve",
+    "meaning": "To free from guilt or blame",
+    "synonyms": ["Forgive", "Pardon", "Acquit"],
+    "trick": "Solve kar diya sab paap – absolve ho gaya"
+  },
+  {
+    "word": "Admonish",
+    "meaning": "To warn or scold gently",
+    "synonyms": ["Warn", "Rebuke", "Scold"],
+    "trick": "Add maa ne shhh bola – admonish kiya pyaar se"
+  },
+  {
+    "word": "Aggravate",
+    "meaning": "To worsen or intensify",
+    "synonyms": ["Worsen", "Exacerbate", "Irritate"],
+    "trick": "Aag aur badh gaya – aggravate ho gaya matter"
+  },
+  {
+    "word": "Altruistic",
+    "meaning": "Selflessly concerned for others",
+    "synonyms": ["Selfless", "Charitable", "Generous"],
+    "trick": "All true log altruistic hote hain"
+  },
+  {
+    "word": "Anarchy",
+    "meaning": "Lack of government or law",
+    "synonyms": ["Lawlessness", "Disorder", "Chaos"],
+    "trick": "Army chali gayi toh anarchy shuru ho gayi"
+  },
+  {
+    "word": "Annex",
+    "meaning": "To add or attach",
+    "synonyms": ["Attach", "Add", "Append"],
+    "trick": "Annexure mein extra pages annex kiye"
+  },
+  {
+    "word": "Antidote",
+    "meaning": "A cure for a disease or poison",
+    "synonyms": ["Remedy", "Cure", "Medicine"],
+    "trick": "Aunty ne dard ke liye antidote diya"
+  },
+  {
+    "word": "Antagonist",
+    "meaning": "One who opposes or is hostile",
+    "synonyms": ["Opponent", "Adversary", "Enemy"],
+    "trick": "Antagonist movie villain hota hai – hamesha hero ke against"
+  },
+  {
+    "word": "Archaic",
+    "meaning": "Very old or outdated",
+    "synonyms": ["Ancient", "Obsolete", "Old-fashioned"],
+    "trick": "Archive jaisa purana – archaic ho gaya"
+  },
+  {
+    "word": "Belligerent",
+    "meaning": "Hostile and aggressive",
+    "synonyms": ["Aggressive", "Hostile", "Combative"],
+    "trick": "Bell bajane ko ready – belligerent aadmi hamesha ladne ko tayyar"
+  },
+  {
+    "word": "Benevolent",
+    "meaning": "Kind and generous",
+    "synonyms": ["Kind-hearted", "Charitable", "Compassionate"],
+    "trick": "Benevolent boss ne bonus de diya"
+  },
+  {
+    "word": "Bolster",
+    "meaning": "To support or strengthen",
+    "synonyms": ["Support", "Reinforce", "Boost"],
+    "trick": "Body builder ne bolster kiya muscles ko"
+  },
+  {
+    "word": "Bizarre",
+    "meaning": "Very strange or unusual",
+    "synonyms": ["Weird", "Odd", "Strange"],
+    "trick": "Bazaar mein bizarre cheezein milti hain"
+  },
+  {
+    "word": "Blatant",
+    "meaning": "Very obvious; without shame",
+    "synonyms": ["Obvious", "Evident", "Shameless"],
+    "trick": "Bina shame ke blatantly jhooth bola"
+  },
+  {
+    "word": "Brusque",
+    "meaning": "Rude or curt in manner",
+    "synonyms": ["Abrupt", "Rude", "Blunt"],
+    "trick": "Brush karte waqt brusque ho gaya – gussa aaya"
+  },
+  {
+    "word": "Bellwether",
+    "meaning": "Leader or indicator of trends",
+    "synonyms": ["Leader", "Pioneer", "Trendsetter"],
+    "trick": "Bell wale teacher bellwether the – sab unko follow karte the"
+  },
+  {
+    "word": "Bemoan",
+    "meaning": "To express sorrow or regret",
+    "synonyms": ["Lament", "Mourn", "Regret"],
+    "trick": "Be moan – matlab rona dhona shuru"
+  },
+  {
+    "word": "Bliss",
+    "meaning": "Perfect happiness",
+    "synonyms": ["Joy", "Delight", "Euphoria"],
+    "trick": "Bliss chocolate khake bliss feel hota hai"
+  },
+  {
+    "word": "Berate",
+    "meaning": "To scold sharply",
+    "synonyms": ["Scold", "Rebuke", "Criticize"],
+    "trick": "Be rate mat kar – warna berate karenge"
+  },
+  {
+    "word": "Bungle",
+    "meaning": "To mess up a task",
+    "synonyms": ["Mishandle", "Botch", "Screw up"],
+    "trick": "Bun galat bana diya chef ne – bungle kar diya"
+  },
+  {
+    "word": "Boisterous",
+    "meaning": "Noisy and energetic",
+    "synonyms": ["Loud", "Rowdy", "Unruly"],
+    "trick": "Boys terrace pe boisterous ho gaye"
+  },
+  {
+    "word": "Bequeath",
+    "meaning": "To leave in a will",
+    "synonyms": ["Leave", "Pass on", "Donate"],
+    "trick": "Bee ki wealth bequeath ki – will mein de diya"
+  },
+  {
+    "word": "Brevity",
+    "meaning": "Shortness of time or expression",
+    "synonyms": ["Conciseness", "Briefness", "Shortness"],
+    "trick": "Brief ka hi noun hai – brevity"
+  },
+  {
+    "word": "Benevolence",
+    "meaning": "Kindness, generosity",
+    "synonyms": ["Kindness", "Compassion", "Goodwill"],
+    "trick": "Benevolent aadmi ki quality – benevolence"
+  },
+  {
+    "word": "Banter",
+    "meaning": "Playful teasing talk",
+    "synonyms": ["Chitchat", "Joke", "Teasing"],
+    "trick": "Bantai log banter karte hain – mazak mazak mein"
+  },
+  {
+    "word": "Brazen",
+    "meaning": "Bold and shameless",
+    "synonyms": ["Bold", "Unashamed", "Defiant"],
+    "trick": "Bra zyada openly dikhayi – brazen behavior!"
+  },
+  {
+    "word": "Barter",
+    "meaning": "Exchange goods without money",
+    "synonyms": ["Exchange", "Trade", "Swap"],
+    "trick": "Bar ke badle tar diya – barter"
+  },
+  {
+    "word": "Bigot",
+    "meaning": "One who is intolerant toward others’ opinions",
+    "synonyms": ["Fanatic", "Extremist", "Racist"],
+    "trick": "Big goat jaise dimag – sirf apna hi sahi maanta hai"
+  },
+  {
+    "word": "Blunder",
+    "meaning": "A careless mistake",
+    "synonyms": ["Mistake", "Error", "Slip"],
+    "trick": "Blind ho ke driving ki – blunder kar diya"
+  },{
+    "word": "Benign",
+    "meaning": "Gentle and harmless",
+    "synonyms": ["Kind", "Harmless", "Mild"],
+    "trick": "Be nice = Benign"
+  },
+  {
+    "word": "Barricade",
+    "meaning": "A barrier to block passage",
+    "synonyms": ["Obstacle", "Barrier", "Obstruction"],
+    "trick": "Bar laga diya – barricade ban gaya"
+  },
+  {
+    "word": "Belittle",
+    "meaning": "To make someone feel less important",
+    "synonyms": ["Criticize", "Demean", "Disparage"],
+    "trick": "Bada banne ke liye dusre ko belittle mat karo"
+  },
+  {
+    "word": "Bask",
+    "meaning": "To enjoy warmth or praise",
+    "synonyms": ["Relax", "Enjoy", "Revel"],
+    "trick": "Bas k kar dhoop mein – bask kar raha hai"
+  },
+  {
+    "word": "Bizarre",
+    "meaning": "Very strange or unusual",
+    "synonyms": ["Weird", "Odd", "Eccentric"],
+    "trick": "Bazaar mein bizarre cheezein milti hain"
+  },
+  {
+    "word": "Bereft",
+    "meaning": "Deprived of something",
+    "synonyms": ["Devoid", "Without", "Lacking"],
+    "trick": "Beer left nahi mila – bereft ho gaya"
+  },
+  {
+    "word": "Buffoon",
+    "meaning": "A person who amuses others by silly behavior",
+    "synonyms": ["Clown", "Jester", "Fool"],
+    "trick": "Funny cartoon ka naam Buffoon!"
+  },
+  {
+    "word": "Burgeon",
+    "meaning": "To grow or develop quickly",
+    "synonyms": ["Flourish", "Expand", "Multiply"],
+    "trick": "Burger ka business burgeon ho gaya"
+  },
+  {
+    "word": "Benediction",
+    "meaning": "A blessing",
+    "synonyms": ["Blessing", "Prayer", "Invocation"],
+    "trick": "Bene (good) + diction (speech) = good words = blessing"
+  },
+  {
+    "word": "Boastful",
+    "meaning": "Proudly talking about achievements",
+    "synonyms": ["Bragging", "Arrogant", "Vainglorious"],
+    "trick": "Boss boastful ban gaya bonus milte hi"
+  },
+  {
+    "word": "Backdrop",
+    "meaning": "The setting or background",
+    "synonyms": ["Background", "Setting", "Scenery"],
+    "trick": "Back ka drop scene – backdrop"
+  },
+  {
+    "word": "Bashful",
+    "meaning": "Shy or timid",
+    "synonyms": ["Shy", "Introverted", "Coy"],
+    "trick": "Bash lagte hi bashful ho gaya ladka"
+  },
+  {
+    "word": "Bluff",
+    "meaning": "To deceive or mislead",
+    "synonyms": ["Deceive", "Lie", "Pretend"],
+    "trick": "Bluff master = jhooth bolta hai"
+  },
+  {
+    "word": "Bounty",
+    "meaning": "Reward or abundance",
+    "synonyms": ["Reward", "Generosity", "Plenty"],
+    "trick": "Bounty chocolate jaisa reward mila"
+  },
+  {
+    "word": "Backfire",
+    "meaning": "Have an opposite effect than intended",
+    "synonyms": ["Misfire", "Rebound", "Fail"],
+    "trick": "Plan backfire ho gaya – ulta result aaya"
+  },
+  {
+    "word": "Betray",
+    "meaning": "To be disloyal",
+    "synonyms": ["Deceive", "Double-cross", "Backstab"],
+    "trick": "Be tray mein poison diya – betray kiya"
+  },
+  {
+    "word": "Brutal",
+    "meaning": "Extremely cruel or harsh",
+    "synonyms": ["Cruel", "Savage", "Harsh"],
+    "trick": "Brutal boss ne break bhi nahi diya"
+  },
+  {
+    "word": "Backdrop",
+    "meaning": "Background against which events occur",
+    "synonyms": ["Setting", "Context", "Surrounding"],
+    "trick": "Back side ka drop scene – backdrop"
+  },
+  {
+    "word": "Bicker",
+    "meaning": "To argue about petty things",
+    "synonyms": ["Argue", "Quarrel", "Squabble"],
+    "trick": "Bikhar gaya dono ka mood – bicker karte karte"
+  },
+  {
+    "word": "Bash",
+    "meaning": "To hit hard or criticize",
+    "synonyms": ["Hit", "Strike", "Smash"],
+    "trick": "Debate mein bash kar diya – bol bol ke maara"
+  },
+  {
+    "word": "Candid",
+    "meaning": "Honest and straightforward",
+    "synonyms": ["Frank", "Open", "Blunt"],
+    "trick": "Candidate interview mein candid hona chahiye – honest and frank"
+  },
+  {
+    "word": "Concur",
+    "meaning": "To agree",
+    "synonyms": ["Agree", "Coincide", "Approve"],
+    "trick": "Conference mein sab concur karte hain – sab agree hote hain"
+  },
+  {
+    "word": "Coerce",
+    "meaning": "To force someone",
+    "synonyms": ["Force", "Compel", "Pressure"],
+    "trick": "Police ne force karke confess karwaya – coerce kiya"
+  },
+  {
+    "word": "Curtail",
+    "meaning": "To reduce or cut short",
+    "synonyms": ["Reduce", "Lessen", "Trim"],
+    "trick": "Cut kar diya – curtail kar diya expenses ko"
+  },
+  {
+    "word": "Complacent",
+    "meaning": "Self-satisfied",
+    "synonyms": ["Smug", "Satisfied", "Content"],
+    "trick": "Placement milte hi wo complacent ho gaya – aur mehnat chhod diya"
+  },
+  {
+    "word": "Conspicuous",
+    "meaning": "Easily noticeable",
+    "synonyms": ["Visible", "Obvious", "Clear"],
+    "trick": "Public mein kisi ka kiss karna conspicuous hota hai – sab dekh lete hain"
+  },
+  {
+    "word": "Credible",
+    "meaning": "Believable",
+    "synonyms": ["Reliable", "Trustworthy", "Plausible"],
+    "trick": "Credit lene layak – credible source"
+  },
+  {
+    "word": "Culminate",
+    "meaning": "To reach the highest point",
+    "synonyms": ["Climax", "Conclude", "Result in"],
+    "trick": "Kal mein ne itna padha, preparation culminate ho gaya final stage pe"
+  },
+  {
+    "word": "Crux",
+    "meaning": "The central or most important point",
+    "synonyms": ["Essence", "Core", "Gist"],
+    "trick": "Main issue ka crux samjho – asli mudda"
+  },
+  {
+    "word": "Callous",
+    "meaning": "Emotionally insensitive",
+    "synonyms": ["Heartless", "Insensitive", "Cold"],
+    "trick": "Call us banday ko, bilkul callous hai – koi feeling nahi"
+  },
+  {
+    "word": "Capricious",
+    "meaning": "Changing mood or behavior suddenly",
+    "synonyms": ["Fickle", "Inconsistent", "Whimsical"],
+    "trick": "Caps ka fashion capricious hota hai – kabhi ye, kabhi woh"
+  },
+  {
+    "word": "Chronic",
+    "meaning": "Long-lasting or persistent",
+    "synonyms": ["Persistent", "Constant", "Enduring"],
+    "trick": "Chronic disease matlab baar baar hone wali bimari"
+  },
+  {
+    "word": "Conundrum",
+    "meaning": "A confusing or difficult problem",
+    "synonyms": ["Puzzle", "Riddle", "Mystery"],
+    "trick": "Confused ho gaya conundrum question dekh ke – kya confusion!"
+  },
+  {
+    "word": "Cajole",
+    "meaning": "To persuade using flattery",
+    "synonyms": ["Persuade", "Coax", "Flatter"],
+    "trick": "Kajol ko cajole kiya – flatter karke manaya"
+  },
+  {
+    "word": "Condone",
+    "meaning": "To forgive or overlook an offense",
+    "synonyms": ["Excuse", "Overlook", "Pardon"],
+    "trick": "Kya tum uska galti condone karoge – maaf karoge?"
+  },
+  {
+    "word": "Consolidate",
+    "meaning": "To make stronger or combine",
+    "synonyms": ["Strengthen", "Combine", "Merge"],
+    "trick": "Solid bana diya team ko – consolidate kar diya"
+  },
+  {
+    "word": "Cacophony",
+    "meaning": "Harsh, unpleasant sound",
+    "synonyms": ["Noise", "Racket", "Discord"],
+    "trick": "Kaccha phone baj raha tha – cacophony create kar raha tha"
+  },
+  {
+    "word": "Congenial",
+    "meaning": "Pleasant or friendly",
+    "synonyms": ["Amiable", "Friendly", "Agreeable"],
+    "trick": "Genius friend congenial bhi hota hai – hamesha helpful"
+  },
+  {
+    "word": "Circumspect",
+    "meaning": "Cautious and unwilling to take risks",
+    "synonyms": ["Careful", "Wary", "Cautious"],
+    "trick": "Circle mein hi ghume – circumspect hai, risky kaam nahi karega"
+  },
+  {
+    "word": "Contrive",
+    "meaning": "To plan cleverly or scheme",
+    "synonyms": ["Devise", "Invent", "Plot"],
+    "trick": "Trap contrive kiya gaya tha usse phasane ke liye"
+  },{
+    "word": "Candor",
+    "meaning": "The quality of being honest and straightforward",
+    "synonyms": ["Frankness", "Openness", "Honesty"],
+    "trick": "Candid camera wali honesty – Candor"
+  },
+  {
+    "word": "Capricious",
+    "meaning": "Given to sudden changes of mood or behavior",
+    "synonyms": ["Fickle", "Unpredictable", "Impulsive"],
+    "trick": "Capri pehenke mood change ho gaya – capricious"
+  },
+  {
+    "word": "Cajole",
+    "meaning": "To persuade with flattery or false promises",
+    "synonyms": ["Coax", "Persuade", "Sweet-talk"],
+    "trick": "Kaajal laga ke cajole kar liya – flatter se mana liya"
+  },
+  {
+    "word": "Chronic",
+    "meaning": "Continuing for a long time",
+    "synonyms": ["Persistent", "Long-lasting", "Constant"],
+    "trick": "Chronic disease means baar-baar hone wala – long term"
+  },
+  {
+    "word": "Concur",
+    "meaning": "To agree",
+    "synonyms": ["Agree", "Approve", "Consent"],
+    "trick": "Con (together) + cur (occur) = concur = agree hona"
+  },
+  {
+    "word": "Censure",
+    "meaning": "To criticize harshly",
+    "synonyms": ["Condemn", "Blame", "Reprimand"],
+    "trick": "Censor board censure karti hai movies ko"
+  },
+  {
+    "word": "Coerce",
+    "meaning": "To force someone to do something",
+    "synonyms": ["Compel", "Force", "Pressurize"],
+    "trick": "Force se kaam karwana = coerce"
+  },
+  {
+    "word": "Contrive",
+    "meaning": "To plan cleverly or scheme",
+    "synonyms": ["Devise", "Engineer", "Fabricate"],
+    "trick": "Con + try = cunning try = plan banana"
+  },
+  {
+    "word": "Complacent",
+    "meaning": "Satisfied with oneself; not wanting to improve",
+    "synonyms": ["Self-satisfied", "Smug", "Content"],
+    "trick": "Complacent student padhta nahi – khush hai jaisa hai waise"
+  },
+  {
+    "word": "Convoluted",
+    "meaning": "Extremely complex and difficult to follow",
+    "synonyms": ["Complicated", "Intricate", "Twisted"],
+    "trick": "Con wala loot twisted hota hai – convoluted"
+  },
+  {
+    "word": "Credulous",
+    "meaning": "Too ready to believe things",
+    "synonyms": ["Gullible", "Naive", "Trusting"],
+    "trick": "Credit dene mein credulous mat ban – sab pe bharosa mat kar"
+  },
+  {
+    "word": "Conspicuous",
+    "meaning": "Clearly visible or standing out",
+    "synonyms": ["Noticeable", "Evident", "Prominent"],
+    "trick": "Con (with) + spectacle = conspicuous = visible"
+  },
+  {
+    "word": "Covet",
+    "meaning": "To desire something belonging to another",
+    "synonyms": ["Crave", "Desire", "Yearn for"],
+    "trick": "Covered cheez chahiye – covet"
+  },
+  {
+    "word": "Cringe",
+    "meaning": "To shrink back in fear or embarrassment",
+    "synonyms": ["Flinch", "Cower", "Recoil"],
+    "trick": "Cringe content dekhke sharma gaya"
+  },
+  {
+    "word": "Curtail",
+    "meaning": "To reduce or cut short",
+    "synonyms": ["Reduce", "Shorten", "Trim"],
+    "trick": "Curtain ko tail se cut karo – curtail"
+  },
+  {
+    "word": "Chide",
+    "meaning": "To scold or rebuke",
+    "synonyms": ["Scold", "Reprimand", "Blame"],
+    "trick": "Child ko chide (scold) kiya"
+  },
+  {
+    "word": "Callous",
+    "meaning": "Emotionally insensitive",
+    "synonyms": ["Heartless", "Insensitive", "Cold"],
+    "trick": "Callous logon ko kisi ki feelings ki parwaah nahi hoti"
+  },
+  {
+    "word": "Clandestine",
+    "meaning": "Kept secret or done secretly",
+    "synonyms": ["Secret", "Covert", "Hidden"],
+    "trick": "Clan (gang) ka secret plan = clandestine"
+  },
+  {
+    "word": "Debilitate",
+    "meaning": "To weaken",
+    "synonyms": ["Weaken", "Exhaust", "Enfeeble"],
+    "trick": "Debi late ho gayi kyunki bimari ne usko debilitate kar diya"
+  },
+  {
+    "word": "Decipher",
+    "meaning": "To decode or interpret",
+    "synonyms": ["Decode", "Interpret", "Unravel"],
+    "trick": "Cipher ko decode karo = de-cipher"
+  },
+  {
+    "word": "Deference",
+    "meaning": "Respect or submission",
+    "synonyms": ["Respect", "Regard", "Reverence"],
+    "trick": "Defence officer ko deference (respect) milta hai"
+  },
+  {
+    "word": "Defiance",
+    "meaning": "Open resistance",
+    "synonyms": ["Resistance", "Rebellion", "Disobedience"],
+    "trick": "Defy karna = mana karna = defiance"
+  },
+  {
+    "word": "Demeanor",
+    "meaning": "Behavior or conduct",
+    "synonyms": ["Conduct", "Behavior", "Attitude"],
+    "trick": "Uska manner = demeanor acha hai"
+  },
+  {
+    "word": "Denounce",
+    "meaning": "To condemn publicly",
+    "synonyms": ["Condemn", "Criticize", "Accuse"],
+    "trick": "Announce ke opposite — burai karna = denounce"
+  },
+  {
+    "word": "Depict",
+    "meaning": "To represent or show",
+    "synonyms": ["Portray", "Represent", "Illustrate"],
+    "trick": "Picture depict karta hai scene"
+  },
+  {
+    "word": "Deride",
+    "meaning": "To mock or ridicule",
+    "synonyms": ["Mock", "Ridicule", "Make fun of"],
+    "trick": "Ride gir gaya, sab deride karne lage"
+  },
+  {
+    "word": "Derogatory",
+    "meaning": "Disrespectful",
+    "synonyms": ["Insulting", "Disparaging", "Belittling"],
+    "trick": "Derogatory comment matlab neecha dikhane wala"
+  },
+  {
+    "word": "Desolate",
+    "meaning": "Deserted and lonely",
+    "synonyms": ["Barren", "Lonely", "Empty"],
+    "trick": "Solo reh gaya = desolate"
+  },
+  {
+    "word": "Despise",
+    "meaning": "To hate deeply",
+    "synonyms": ["Hate", "Loathe", "Detest"],
+    "trick": "Desi paisa kam de toh despise karte hain"
+  },
+  {
+    "word": "Detain",
+    "meaning": "To keep in custody",
+    "synonyms": ["Hold", "Arrest", "Confine"],
+    "trick": "Police ne train se detain kiya"
+  },
+  {
+    "word": "Deteriorate",
+    "meaning": "To become worse",
+    "synonyms": ["Worsen", "Decline", "Degenerate"],
+    "trick": "Tandooriyat deteriorate ho gayi"
+  },
+  {
+    "word": "Detrimental",
+    "meaning": "Harmful",
+    "synonyms": ["Harmful", "Damaging", "Injurious"],
+    "trick": "Diet skip karna health ke liye detrimental hai"
+  },
+  {
+    "word": "Devout",
+    "meaning": "Deeply religious",
+    "synonyms": ["Religious", "Pious", "Dedicated"],
+    "trick": "Dev + out = devta ke liye bahar nikal gaya, devout hai"
+  },
+  {
+    "word": "Dexterous",
+    "meaning": "Skillful with hands or mind",
+    "synonyms": ["Skilled", "Adept", "Adroit"],
+    "trick": "Dexter’s lab ka Dexter bahut dexterous tha"
+  },
+  {
+    "word": "Diatribe",
+    "meaning": "A bitter verbal attack",
+    "synonyms": ["Criticism", "Rant", "Tirade"],
+    "trick": "Dialogue + tribe pe attack = diatribe"
+  },
+  {
+    "word": "Dichotomy",
+    "meaning": "Division into two parts",
+    "synonyms": ["Division", "Contrast", "Split"],
+    "trick": "Di = two, chotomy = parts → dichotomy"
+  },
+  {
+    "word": "Diligent",
+    "meaning": "Hardworking and careful",
+    "synonyms": ["Hardworking", "Industrious", "Conscientious"],
+    "trick": "Daily agent diligent kaam karta hai"
+  },
+  {
+    "word": "Discrepancy",
+    "meaning": "A difference or inconsistency",
+    "synonyms": ["Difference", "Mismatch", "Inconsistency"],
+    "trick": "Script mein discrepancy hai — match nahi ho raha"
+  },
+  {
+    "word": "Disdain",
+    "meaning": "Lack of respect, contempt",
+    "synonyms": ["Contempt", "Scorn", "Derision"],
+    "trick": "Dis + dain (dena) = izzat na dena"
+  },
+  {
+    "word": "Disheveled",
+    "meaning": "Untidy or messy",
+    "synonyms": ["Messy", "Unkempt", "Tangled"],
+    "trick": "Shiv ji disheveled lagte hain – baal bikre hue"
+  },
+  {
+    "word": "Disparage",
+    "meaning": "To belittle or insult",
+    "synonyms": ["Belittle", "Devalue", "Discredit"],
+    "trick": "Dis + praise = disparage = burai karna"
+  },
+  {
+    "word": "Dispel",
+    "meaning": "To drive away (a doubt or feeling)",
+    "synonyms": ["Eliminate", "Dismiss", "Banish"],
+    "trick": "Spell se bhoot dispel kiya"
+  },
+  {
+    "word": "Disseminate",
+    "meaning": "To spread widely (ideas, info)",
+    "synonyms": ["Spread", "Distribute", "Circulate"],
+    "trick": "Semi-final news jaldi disseminate hoti hai"
+  },
+  {
+    "word": "Dissuade",
+    "meaning": "To discourage from doing something",
+    "synonyms": ["Discourage", "Deter", "Prevent"],
+    "trick": "Sway karna matlab manana, dissuade = na manana"
+  },
+  {
+    "word": "Dogmatic",
+    "meaning": "Stubbornly opinionated",
+    "synonyms": ["Stubborn", "Opinionated", "Rigid"],
+    "trick": "Dog jaisa stubborn = dogmatic"
+  },
+  {
+    "word": "Dormant",
+    "meaning": "Inactive, sleeping",
+    "synonyms": ["Inactive", "Asleep", "Latent"],
+    "trick": "Dorm mein pada hua = dormant"
+  },
+  {
+    "word": "Dubious",
+    "meaning": "Doubtful or suspicious",
+    "synonyms": ["Doubtful", "Uncertain", "Questionable"],
+    "trick": "Doubt + obvious = dubious"
+  },
+  {
+    "word": "Durable",
+    "meaning": "Long-lasting",
+    "synonyms": ["Long-lasting", "Sturdy", "Tough"],
+    "trick": "Dura = endure, able = capable"
+  },
+  {
+    "word": "Dwindle",
+    "meaning": "To gradually reduce in size, number, or strength",
+    "synonyms": ["Shrink", "Decrease", "Diminish"],
+    "trick": "Wind se dheere dheere kam ho gaya = dwindle"
+  },
+  {
+    "word": "Ebullient",
+    "meaning": "Overflowing with enthusiasm",
+    "synonyms": ["Exuberant", "Energetic", "Vivacious"],
+    "trick": "Bully + ant = bully ant to energy overflow – ebullient"
+  },
+  {
+    "word": "Eccentric",
+    "meaning": "Unconventional or slightly strange",
+    "synonyms": ["Odd", "Strange", "Unusual"],
+    "trick": "Ek centric se alag behaving = eccentric"
+  },
+  {
+    "word": "Eclectic",
+    "meaning": "Deriving ideas from a diverse range",
+    "synonyms": ["Selective", "Varied", "Diverse"],
+    "trick": "Electric mix = eclectic collection"
+  },
+  {
+    "word": "Eloquent",
+    "meaning": "Fluent or persuasive in speaking",
+    "synonyms": ["Fluent", "Articulate", "Expressive"],
+    "trick": "Elocution competition mein fluent bolna = eloquent"
+  },
+  {
+    "word": "Elude",
+    "meaning": "To evade or escape from",
+    "synonyms": ["Evade", "Avoid", "Escape"],
+    "trick": "Illude se avoid karo = elude"
+  },
+  {
+    "word": "Embellish",
+    "meaning": "To make something more attractive",
+    "synonyms": ["Decorate", "Adorn", "Enhance"],
+    "trick": "Belle daughter dressed nicely = embellish"
+  },
+  {
+    "word": "Emulate",
+    "meaning": "To imitate with the intention to equal",
+    "synonyms": ["Imitate", "Copy", "Match"],
+    "trick": "You emu‑late your hero = emulate"
+  },
+  {
+    "word": "Endorse",
+    "meaning": "To support or approve",
+    "synonyms": ["Support", "Back", "Approve"],
+    "trick": "Door pe endorsement sticker = endorse"
+  },
+  {
+    "word": "Enervate",
+    "meaning": "To weaken or drain of energy",
+    "synonyms": ["Weaken", "Exhaust", "Debilitate"],
+    "trick": "Energy vanish = enervate"
+  },
+  {
+    "word": "Engender",
+    "meaning": "To give rise to; produce",
+    "synonyms": ["Cause", "Generate", "Produce"],
+    "trick": "Engine gender decide nahi kar sakta cause = engender"
+  },
+  {
+    "word": "Enhance",
+    "meaning": "To improve or augment",
+    "synonyms": ["Improve", "Augment", "Boost"],
+    "trick": "Han, enhance kar ke picture accha ho gaya"
+  },
+  {
+    "word": "Enigmatic",
+    "meaning": "Mysterious and difficult to understand",
+    "synonyms": ["Mysterious", "Puzzling", "Obscure"],
+    "trick": "Inigma jaise puzzle = enigmatic"
+  },
+  {
+    "word": "Entail",
+    "meaning": "To involve as a necessary part",
+    "synonyms": ["Involve", "Include", "Require"],
+    "trick": "En tail mein jism ka hissa = involve karna = entail"
+  },
+  {
+    "word": "Enumerate",
+    "meaning": "To list one by one",
+    "synonyms": ["List", "Count", "Recite"],
+    "trick": "E numbers ko separately ginna = enumerate"
+  },
+  {
+    "word": "Ephemeral",
+    "meaning": "Lasting for a very short time",
+    "synonyms": ["Fleeting", "Transient", "Short-lived"],
+    "trick": "If a feather falls fast = ephemeral"
+  },
+  {
+    "word": "Equanimity",
+    "meaning": "Mental calmness in difficult situations",
+    "synonyms": ["Composure", "Calmness", "Serenity"],
+    "trick": "Equal + immunity = mind cool = equanimity"
+  },
+  {
+    "word": "Equitable",
+    "meaning": "Fair and impartial",
+    "synonyms": ["Fair", "Just", "Unbiased"],
+    "trick": "Equal + table — sabko equal seat = equitable"
+  },
+  {
+    "word": "Eradicate",
+    "meaning": "To wipe out completely",
+    "synonyms": ["Eliminate", "Destroy", "Exterminate"],
+    "trick": "A rate kite blow up = eradicate bugs"
+  },
+  {
+    "word": "Erratic",
+    "meaning": "Unpredictable and inconsistent",
+    "synonyms": ["Unpredictable", "Inconsistent", "Irregular"],
+    "trick": "Err no. badta ghanta = unpredictable = erratic"
+  },
+  {
+    "word": "Erudite",
+    "meaning": "Having great knowledge",
+    "synonyms": ["Learned", "Scholarly", "Knowledgeable"],
+    "trick": "Rude + tight padhta – very learned = erudite"
+  },
+  {
+    "word": "Esoteric",
+    "meaning": "Intended for or likely to be understood by a small group",
+    "synonyms": ["Abstruse", "Cryptic", "Obscure"],
+    "trick": "Sari ticket close group mein = esoteric"
+  },
+  {
+    "word": "Ethereal",
+    "meaning": "Extremely delicate and light",
+    "synonyms": ["Delicate", "Light", "Heavenly"],
+    "trick": "Ether me flying – light and heavenly = ethereal"
+  },
+  {
+    "word": "Eulogize",
+    "meaning": "To praise highly, especially in speech",
+    "synonyms": ["Praise", "Extol", "Commend"],
+    "trick": "You log eyes se praise karo = eulogize"
+  },
+  {
+    "word": "Euphemism",
+    "meaning": "A mild or indirect word substituted for one considered harsh",
+    "synonyms": ["Substitute", "Understatement", "Soft talk"],
+    "trick": "You pheme is mild word = euphemism"
+  },
+  {
+    "word": "Evade",
+    "meaning": "To escape or avoid",
+    "synonyms": ["Evade", "Avoid", "Elude"],
+    "trick": "Eve me chhup ke police se evade kiya"
+  },
+  {
+    "word": "Evaluate",
+    "meaning": "To assess or judge",
+    "synonyms": ["Assess", "Appraise", "Judge"],
+    "trick": "Value ko assess = evaluate"
+  },
+  {
+    "word": "Evince",
+    "meaning": "To reveal or make plain",
+    "synonyms": ["Reveal", "Show", "Demonstrate"],
+    "trick": "Invoice se pata chalta hai = evince meaning"
+  },
+  {
+    "word": "Exacerbate",
+    "meaning": "To make worse",
+    "synonyms": ["Worsen", "Aggravate", "Intensify"],
+    "trick": "Aç (ache) zaroor badh gaya = exacerbate"
+  },
+  {
+    "word": "Exalt",
+    "meaning": "To praise or glorify",
+    "synonyms": ["Praise", "Glorify", "Honor"],
+    "trick": "X alt kar do = extra respect = exalt"
+  },
+  {
+    "word": "Exemplary",
+    "meaning": "Outstanding and serving as a model",
+    "synonyms": ["Ideal", "Model", "Commendable"],
+    "trick": "Example worthy = exemplary"
+  },
+  {
+    "word": "Exhaustive",
+    "meaning": "Thorough and complete",
+    "synonyms": ["Thorough", "Comprehensive", "Extensive"],
+    "trick": "Hall pass exhaust ho gaya – sab check thorough = exhaustive"
+  },
+  {
+    "word": "Exonerate",
+    "meaning": "To free from blame",
+    "synonyms": ["Absolve", "Acquit", "Vindicate"],
+    "trick": "On Xoner days no blame = exonerate"
+  },
+  {
+    "word": "Expedite",
+    "meaning": "To speed up a process",
+    "synonyms": ["Accelerate", "Hasten", "Quick‑track"],
+    "trick": "Ex – pet die? Quickly finish = expedite"
+  },
+  {
+    "word": "Extol",
+    "meaning": "To praise enthusiastically",
+    "synonyms": ["Praise", "Laud", "Glorify"],
+    "trick": "Extol = extra toll of praise"
+  },
+  {
+    "word": "Extraneous",
+    "meaning": "Irrelevant or unrelated to the subject",
+    "synonyms": ["Irrelevant", "Unrelated", "Unnecessary"],
+    "trick": "Extra anneus – unrelated stuff = extraneous"
+  },
+  {
+    "word": "Facilitate",
+    "meaning": "To make easier",
+    "synonyms": ["Ease", "Simplify", "Help"],
+    "trick": "Facility milti hai kaam easy karne ke liye"
+  },
+  {
+    "word": "Fallacy",
+    "meaning": "A false idea or belief",
+    "synonyms": ["Misconception", "Error", "Delusion"],
+    "trick": "Fall + AC = Soch galat thi, AC gir gaya"
+  },
+  {
+    "word": "Fathom",
+    "meaning": "To understand deeply",
+    "synonyms": ["Comprehend", "Grasp", "Understand"],
+    "trick": "Fathur bhi nahi samajh paaye – itna mushkil"
+  },
+  {
+    "word": "Fervent",
+    "meaning": "Showing strong passion",
+    "synonyms": ["Passionate", "Enthusiastic", "Zealous"],
+    "trick": "Fervent fan hoon Virat ka – dil se support"
+  },
+  {
+    "word": "Fickle",
+    "meaning": "Changing frequently (esp. loyalty/mood)",
+    "synonyms": ["Unstable", "Inconsistent", "Capricious"],
+    "trick": "Fickle girl – kabhi haan kabhi naa"
+  },
+  {
+    "word": "Fluctuate",
+    "meaning": "To vary irregularly",
+    "synonyms": ["Waver", "Oscillate", "Swing"],
+    "trick": "Fuel ke rate fluctuate karte rehte hain"
+  },
+  {
+    "word": "Frivolous",
+    "meaning": "Not serious or important",
+    "synonyms": ["Silly", "Trivial", "Petty"],
+    "trick": "Free+Wala – zyada kaam ka nahi, frivolous"
+  },
+  {
+    "word": "Foster",
+    "meaning": "To encourage or promote",
+    "synonyms": ["Support", "Nurture", "Promote"],
+    "trick": "Foster parents support karte hain"
+  },
+  {
+    "word": "Frugal",
+    "meaning": "Economical in spending",
+    "synonyms": ["Thrifty", "Saving", "Economical"],
+    "trick": "Fruit gal (frugal) kha ke kaam chala liya"
+  },
+  {
+    "word": "Feign",
+    "meaning": "To pretend",
+    "synonyms": ["Fake", "Simulate", "Act"],
+    "trick": "Fein (fine) bol diya par bimar tha"
+  },
+  {
+    "word": "Futile",
+    "meaning": "Useless or ineffective",
+    "synonyms": ["Pointless", "Vain", "Unproductive"],
+    "trick": "Future ki tile futile hai – koi kaam ki nahi"
+  },
+  {
+    "word": "Fortuitous",
+    "meaning": "Happening by chance (luck)",
+    "synonyms": ["Accidental", "Unexpected", "Lucky"],
+    "trick": "Fortune mila – fortuitous chance tha"
+  },
+  {
+    "word": "Flamboyant",
+    "meaning": "Flashy or showy",
+    "synonyms": ["Colorful", "Dashing", "Flashy"],
+    "trick": "Flame jaisa boy – flamboyant!"
+  },
+  {
+    "word": "Falter",
+    "meaning": "To hesitate or lose strength",
+    "synonyms": ["Hesitate", "Waver", "Stumble"],
+    "trick": "Falter hua to fail ho gaya"
+  },
+  {
+    "word": "Fabricate",
+    "meaning": "To invent or lie",
+    "synonyms": ["Make up", "Forge", "Lie"],
+    "trick": "Fabric banaya – story bhi fabricate ki"
+  },
+  {
+    "word": "Formidable",
+    "meaning": "Inspiring fear or respect",
+    "synonyms": ["Intimidating", "Powerful", "Threatening"],
+    "trick": "Formi ka dabba – dikhte hi darr lagta hai"
+  },
+  {
+    "word": "Frenzy",
+    "meaning": "Wild excitement or chaos",
+    "synonyms": ["Madness", "Hysteria", "Fury"],
+    "trick": "Free mein cheese mili – frenzy mach gaya"
+  },
+  {
+    "word": "Foresight",
+    "meaning": "Ability to predict or plan for future",
+    "synonyms": ["Vision", "Prediction", "Prescience"],
+    "trick": "Fore (future) ka sight – foresight"
+  },
+  {
+    "word": "Foreboding",
+    "meaning": "A feeling that something bad will happen",
+    "synonyms": ["Premonition", "Omen", "Dread"],
+    "trick": "Fore + bad feeling = foreboding"
+  },
+  {
+    "word": "Foment",
+    "meaning": "To stir up (especially trouble or rebellion)",
+    "synonyms": ["Instigate", "Provoke", "Agitate"],
+    "trick": "Foam wala protest foment kar diya"
+  },
+  {
+    "word": "Flatter",
+    "meaning": "To praise insincerely",
+    "synonyms": ["Compliment", "Sweet-talk", "Butter up"],
+    "trick": "Flat kar diya ego ko – flatter karne se"
+  },
+  {
+    "word": "Flaunt",
+    "meaning": "To show off",
+    "synonyms": ["Boast", "Exhibit", "Parade"],
+    "trick": "Flat mein naya phone flaunt kiya"
+  },
+  {
+    "word": "Foresake",
+    "meaning": "To abandon or give up",
+    "synonyms": ["Leave", "Desert", "Renounce"],
+    "trick": "Forsake = for + sake of career, sab chhod diya"
+  },
+  {
+    "word": "Flare",
+    "meaning": "To blaze up suddenly",
+    "synonyms": ["Blaze", "Burst", "Erupt"],
+    "trick": "Anger flare up ho gaya"
+  },
+  {
+    "word": "Fumble",
+    "meaning": "To handle clumsily",
+    "synonyms": ["Blunder", "Stumble", "Mess up"],
+    "trick": "Phone fumble kar gaya – gir gaya!"
+  },
+  {
+    "word": "Fissure",
+    "meaning": "A narrow crack or opening",
+    "synonyms": ["Crack", "Crevice", "Split"],
+    "trick": "Fish ke beech fissure tha"
+  },
+  {
+    "word": "Futile",
+    "meaning": "Useless; pointless",
+    "synonyms": ["Ineffective", "Worthless", "Empty"],
+    "trick": "Future ke tile – futile"
+  },
+  {
+    "word": "Furor",
+    "meaning": "Public outburst of anger or excitement",
+    "synonyms": ["Commotion", "Uproar", "Rage"],
+    "trick": "Furor mach gaya match haarne par"
+  },
+  {
+    "word": "Fissile",
+    "meaning": "Capable of being split (esp. nuclear)",
+    "synonyms": ["Splitable", "Breakable"],
+    "trick": "Missile fissile material se banta hai"
+  },
+  {
+    "word": "Felicity",
+    "meaning": "Intense happiness",
+    "synonyms": ["Joy", "Bliss", "Delight"],
+    "trick": "Felicity ki shaadi – sab happy!"
+  },
+  {
+    "word": "Gainsay",
+    "meaning": "To deny or contradict",
+    "synonyms": ["Deny", "Dispute", "Contradict"],
+    "trick": "Gain bolne par 'say' na karo – gainsay mat karo"
+  },
+  {
+    "word": "Garrulous",
+    "meaning": "Excessively talkative",
+    "synonyms": ["Talkative", "Chatty", "Loquacious"],
+    "trick": "Girls are often garrulous – nonstop talking"
+  },
+  {
+    "word": "Gregarious",
+    "meaning": "Sociable",
+    "synonyms": ["Outgoing", "Friendly", "Social"],
+    "trick": "Greg is always in groups – gregarious nature"
+  },
+  {
+    "word": "Gluttony",
+    "meaning": "Overeating or overindulgence",
+    "synonyms": ["Greed", "Overeating", "Excess"],
+    "trick": "Glutton = eat like button daba daba ke"
+  },
+  {
+    "word": "Gaudy",
+    "meaning": "Too bright or showy",
+    "synonyms": ["Flashy", "Showy", "Loud"],
+    "trick": "Gaudy = Godi rang – zyada chamak dhamak"
+  },
+  {
+    "word": "Grim",
+    "meaning": "Serious, gloomy",
+    "synonyms": ["Stern", "Forbidding", "Bleak"],
+    "trick": "Grim reaper ka face – serious and scary"
+  },
+  {
+    "word": "Grievance",
+    "meaning": "Complaint",
+    "synonyms": ["Objection", "Protest", "Complaint"],
+    "trick": "Grieve karne wali baat – grievance"
+  },
+  {
+    "word": "Grotesque",
+    "meaning": "Ugly or distorted",
+    "synonyms": ["Hideous", "Deformed", "Bizarre"],
+    "trick": "Gross + antique = grotesque (ugly)"
+  },
+  {
+    "word": "Grudge",
+    "meaning": "Persistent feeling of resentment",
+    "synonyms": ["Resentment", "Bitterness", "Spite"],
+    "trick": "Garage mein band grudge rakha hai – purani dushmani"
+  },
+  {
+    "word": "Guile",
+    "meaning": "Cunning or deceit",
+    "synonyms": ["Deceit", "Trickery", "Cunning"],
+    "trick": "Guile = gaya le gaya – cheat karke"
+  },
+  {
+    "word": "Gullible",
+    "meaning": "Easily fooled",
+    "synonyms": ["Naive", "Trusting", "Innocent"],
+    "trick": "Gulli le gaya – sab par bharosa karta hai"
+  },
+  {
+    "word": "Gusto",
+    "meaning": "Enthusiasm",
+    "synonyms": ["Zest", "Enthusiasm", "Enjoyment"],
+    "trick": "Gusta = josh me gusto se kaam kiya"
+  },
+  {
+    "word": "Gaunt",
+    "meaning": "Extremely thin",
+    "synonyms": ["Emaciated", "Skinny", "Bony"],
+    "trick": "Gaaun mein log gaunt dikhte hain"
+  },
+  {
+    "word": "Gamut",
+    "meaning": "Entire range or scope",
+    "synonyms": ["Range", "Spectrum", "Scope"],
+    "trick": "Game ka mutlab – poora range of skills"
+  },
+  {
+    "word": "Germane",
+    "meaning": "Relevant",
+    "synonyms": ["Relevant", "Pertinent", "Appropriate"],
+    "trick": "Germany ki baat exam me germane nahi"
+  },
+  {
+    "word": "Genial",
+    "meaning": "Friendly and cheerful",
+    "synonyms": ["Friendly", "Amiable", "Cheerful"],
+    "trick": "Genuine smile = genial nature"
+  },
+  {
+    "word": "Grimace",
+    "meaning": "A facial expression of pain or disgust",
+    "synonyms": ["Frown", "Scowl", "Sneer"],
+    "trick": "Grim face = grimace"
+  },
+  {
+    "word": "Gallant",
+    "meaning": "Brave and heroic",
+    "synonyms": ["Valiant", "Chivalrous", "Daring"],
+    "trick": "Gallan mardaangi – gallant hero"
+  },
+  {
+    "word": "Gape",
+    "meaning": "To stare with open mouth",
+    "synonyms": ["Stare", "Gawk", "Gaze"],
+    "trick": "Gape = ghoor kar dekhna muh khol ke"
+  },
+  {
+    "word": "Glean",
+    "meaning": "To gather information bit by bit",
+    "synonyms": ["Collect", "Gather", "Extract"],
+    "trick": "Clean idea glean karke nikala"
+  },
+  {
+    "word": "Grumble",
+    "meaning": "To complain quietly",
+    "synonyms": ["Complain", "Murmur", "Whine"],
+    "trick": "Grandma hamesha grumble karti hai"
+  },
+  {
+    "word": "Gaol",
+    "meaning": "Jail",
+    "synonyms": ["Prison", "Cell", "Lockup"],
+    "trick": "Gaol = Jail (British spelling)"
+  },
+  {
+    "word": "Gait",
+    "meaning": "Way of walking",
+    "synonyms": ["Walk", "Step", "Stride"],
+    "trick": "Gate pe uska gait dekha – chaal"
+  },
+  {
+    "word": "Genteel",
+    "meaning": "Polite and refined",
+    "synonyms": ["Elegant", "Polished", "Sophisticated"],
+    "trick": "Gentle log genteel hote hain"
+  },
+  {
+    "word": "Grovel",
+    "meaning": "To beg humbly",
+    "synonyms": ["Beg", "Crawl", "Cringe"],
+    "trick": "Gravel pe girke grovel kiya"
+  },
+  {
+    "word": "Gratify",
+    "meaning": "To please",
+    "synonyms": ["Satisfy", "Please", "Indulge"],
+    "trick": "Gratitude dikha ke gratify kiya"
+  },
+  {
+    "word": "Gracious",
+    "meaning": "Kind and courteous",
+    "synonyms": ["Courteous", "Kind", "Polite"],
+    "trick": "Grace se bhara hua – gracious nature"
+  },
+  {
+    "word": "Glimpse",
+    "meaning": "A brief look",
+    "synonyms": ["Peek", "Glance", "Sight"],
+    "trick": "Glass me se ek glimpse mila"
+  },
+  {
+    "word": "Grisly",
+    "meaning": "Causing horror",
+    "synonyms": ["Horrifying", "Ghastly", "Gruesome"],
+    "trick": "Grizzly bear ka attack – grisly scene"
+  },
+  {
+    "word": "Gush",
+    "meaning": "Flow out suddenly and in large amounts",
+    "synonyms": ["Stream", "Flow", "Spurt"],
+    "trick": "Gussa ya tears gush out suddenly"
+  },
+  {
+    "word": "Hackneyed",
+    "meaning": "Overused and unoriginal",
+    "synonyms": ["Stale", "Clichéd", "Trite"],
+    "trick": "Hack kar diya sabne – ab to purana ho gaya"
+  },
+  {
+    "word": "Haphazard",
+    "meaning": "Lacking any obvious order",
+    "synonyms": ["Random", "Unplanned", "Chaotic"],
+    "trick": "Happened without hazard planning – random tha"
+  },
+  {
+    "word": "Harangue",
+    "meaning": "A lengthy and aggressive speech",
+    "synonyms": ["Tirade", "Lecture", "Diatribe"],
+    "trick": "Haran (deer) ko sunayi harangue – lambi bhashan"
+  },
+  {
+    "word": "Haughty",
+    "meaning": "Arrogantly superior",
+    "synonyms": ["Proud", "Arrogant", "Snobbish"],
+    "trick": "Haw-t tea sirf elite log peete – haughty log"
+  },
+  {
+    "word": "Heinous",
+    "meaning": "Shockingly evil",
+    "synonyms": ["Wicked", "Horrible", "Atrocious"],
+    "trick": "Hai na uska kaam heinous – bohot ganda kaam"
+  },
+  {
+    "word": "Heretic",
+    "meaning": "One who goes against accepted beliefs",
+    "synonyms": ["Nonconformist", "Rebel", "Dissenter"],
+    "trick": "Hero-tic ideas hamesha alag – heretic"
+  },
+  {
+    "word": "Hiatus",
+    "meaning": "A pause or gap",
+    "synonyms": ["Break", "Interval", "Pause"],
+    "trick": "High aata hai to sab mein hiatus aa jaata hai"
+  },
+  {
+    "word": "Hinder",
+    "meaning": "To obstruct or delay",
+    "synonyms": ["Obstruct", "Hamper", "Impede"],
+    "trick": "Hindrance create karta hai – rokta hai"
+  },
+  {
+    "word": "Hoax",
+    "meaning": "A humorous or malicious deception",
+    "synonyms": ["Deceit", "Fraud", "Prank"],
+    "trick": "Whatsapp pe fake news – ek hoax hota hai"
+  },
+  {
+    "word": "Homogeneous",
+    "meaning": "Of the same kind",
+    "synonyms": ["Uniform", "Identical", "Similar"],
+    "trick": "Homo = same, genes = structure"
+  },
+  {
+    "word": "Hypocrisy",
+    "meaning": "Pretending to be what one is not",
+    "synonyms": ["Deceit", "Insincerity", "Pretense"],
+    "trick": "Hypo matlab neeche – asli chehra chhupa ke rakha"
+  },
+  {
+    "word": "Hypothetical",
+    "meaning": "Based on assumptions",
+    "synonyms": ["Theoretical", "Speculative", "Supposed"],
+    "trick": "Hypothesis par based – pakka nahi"
+  },
+  {
+    "word": "Hysterical",
+    "meaning": "Emotionally uncontrolled",
+    "synonyms": ["Manic", "Agitated", "Overemotional"],
+    "trick": "Hysteria wala reaction – zyada overacting"
+  },
+  {
+    "word": "Halt",
+    "meaning": "To stop",
+    "synonyms": ["Cease", "Pause", "Terminate"],
+    "trick": "Train ne halt liya – ruk gayi"
+  },
+  {
+    "word": "Harrowing",
+    "meaning": "Extremely distressing",
+    "synonyms": ["Painful", "Traumatic", "Disturbing"],
+    "trick": "Horror jaise harrowing experience"
+  },
+  {
+    "word": "Heed",
+    "meaning": "To pay attention",
+    "synonyms": ["Consider", "Notice", "Observe"],
+    "trick": "Heed matlab heed lena – dhyan dena"
+  },
+  {
+    "word": "Harbinger",
+    "meaning": "A forerunner or signal of something",
+    "synonyms": ["Omen", "Sign", "Messenger"],
+    "trick": "Harbinger aaya – kuch bada hone wala hai"
+  },
+  {
+    "word": "Humiliate",
+    "meaning": "To make someone feel ashamed",
+    "synonyms": ["Embarrass", "Degrade", "Insult"],
+    "trick": "Human ke samne insult – humiliation"
+  },
+  {
+    "word": "Hustle",
+    "meaning": "To move hurriedly",
+    "synonyms": ["Rush", "Push", "Hurry"],
+    "trick": "Hustle kar – time kam hai"
+  },
+  {
+    "word": "Hoist",
+    "meaning": "To lift up",
+    "synonyms": ["Raise", "Lift", "Elevate"],
+    "trick": "Flag hoist kiya – upar uthaya"
+  },
+  {
+    "word": "Hollow",
+    "meaning": "Empty inside",
+    "synonyms": ["Vacant", "Void", "Cavity"],
+    "trick": "Hollow log – andar se khaali"
+  },
+  {
+    "word": "Hover",
+    "meaning": "To float or hang in the air",
+    "synonyms": ["Drift", "Glide", "Linger"],
+    "trick": "Drone hover karta hai hawa mein"
+  },
+  {
+    "word": "Hoard",
+    "meaning": "To accumulate and store",
+    "synonyms": ["Store", "Amass", "Stockpile"],
+    "trick": "Hoarding ka matlab zyada jama karna"
+  },
+  {
+    "word": "Harden",
+    "meaning": "To make or become hard",
+    "synonyms": ["Solidify", "Toughen", "Stiffen"],
+    "trick": "Hard ho gaya – hardened ho gaya"
+  },
+  {
+    "word": "Hereditary",
+    "meaning": "Passed from parents to offspring",
+    "synonyms": ["Inherited", "Genetic", "Transmitted"],
+    "trick": "Heredity se milta hai – inherited"
+  },
+  {
+    "word": "Harass",
+    "meaning": "To disturb persistently",
+    "synonyms": ["Bully", "Pester", "Annoy"],
+    "trick": "Har roz tang kare to harass bolte hai"
+  },
+  {
+    "word": "Hallucination",
+    "meaning": "Seeing or sensing things that aren’t real",
+    "synonyms": ["Delusion", "Illusion", "Vision"],
+    "trick": "Halwa samjha aur kha gaya – hallucination tha"
+  },
+  {
+    "word": "Handy",
+    "meaning": "Useful and convenient",
+    "synonyms": ["Helpful", "Accessible", "Practical"],
+    "trick": "Haath me rakh ke kaam aata – handy"
+  },
+  {
+    "word": "Harmony",
+    "meaning": "Peaceful agreement",
+    "synonyms": ["Concord", "Peace", "Agreement"],
+    "trick": "Harmonium bajao – shanti se bajta hai"
+  },
+  {
+    "word": "Humane",
+    "meaning": "Kind and compassionate",
+    "synonyms": ["Compassionate", "Kind-hearted", "Considerate"],
+    "trick": "Human jaise qualities – humane"
+  },
+  {
+    "word": "Imminent",
+    "meaning": "About to happen",
+    "synonyms": ["Impending", "Approaching", "Near"],
+    "trick": "Incoming danger is imminent – matlab hone hi wala hai!"
+  },
+  {
+    "word": "Impartial",
+    "meaning": "Unbiased; fair",
+    "synonyms": ["Neutral", "Objective", "Nonpartisan"],
+    "trick": "Im + partial = not partial = fair"
+  },
+  {
+    "word": "Impeccable",
+    "meaning": "Flawless; perfect",
+    "synonyms": ["Spotless", "Perfect", "Faultless"],
+    "trick": "Pakka impeccable result – koi galti nahi"
+  },
+  {
+    "word": "Impediment",
+    "meaning": "Hindrance; obstruction",
+    "synonyms": ["Obstacle", "Barrier", "Hurdle"],
+    "trick": "Ped in the way is an impediment"
+  },
+  {
+    "word": "Imperative",
+    "meaning": "Absolutely necessary",
+    "synonyms": ["Crucial", "Essential", "Vital"],
+    "trick": "Important things are always imperative"
+  },
+  {
+    "word": "Improvise",
+    "meaning": "To do without preparation",
+    "synonyms": ["Extemporize", "Invent", "Spontaneously act"],
+    "trick": "Improvised jugaad – bina taiyaari ke kaam"
+  },
+  {
+    "word": "Imposing",
+    "meaning": "Impressive in appearance",
+    "synonyms": ["Grand", "Stately", "Magnificent"],
+    "trick": "Impose karne wala strong dikhta hai"
+  },
+  {
+    "word": "Imprudent",
+    "meaning": "Not wise or sensible",
+    "synonyms": ["Reckless", "Careless", "Unwise"],
+    "trick": "Prudent = wise, so imprudent = unwise"
+  },
+  {
+    "word": "Inadvertent",
+    "meaning": "Unintentional; accidental",
+    "synonyms": ["Unplanned", "Unintended", "Unwitting"],
+    "trick": "Advertent = careful, so inadvertent = careless"
+  },
+  {
+    "word": "Incessant",
+    "meaning": "Never-ending",
+    "synonyms": ["Continuous", "Nonstop", "Unceasing"],
+    "trick": "Success chahiye to incessant mehnat karo"
+  },
+  {
+    "word": "Incite",
+    "meaning": "To provoke",
+    "synonyms": ["Instigate", "Provoke", "Stir up"],
+    "trick": "Inside se gussa incite karta hai"
+  },
+  {
+    "word": "Inclination",
+    "meaning": "A tendency or preference",
+    "synonyms": ["Tendency", "Disposition", "Bias"],
+    "trick": "Incline matlab jhukna – kisi taraf jhukav"
+  },
+  {
+    "word": "Incongruous",
+    "meaning": "Out of place",
+    "synonyms": ["Inappropriate", "Unsuitable", "Inconsistent"],
+    "trick": "Con-gruence ka ulta – mismatch"
+  },
+  {
+    "word": "Incredulous",
+    "meaning": "Disbelieving",
+    "synonyms": ["Skeptical", "Doubtful", "Suspicious"],
+    "trick": "Incredible cheez dekhke incredulous ho gaya"
+  },
+  {
+    "word": "Indelible",
+    "meaning": "Cannot be removed",
+    "synonyms": ["Permanent", "Lasting", "Unforgettable"],
+    "trick": "Ink mark indelible hota hai"
+  },
+  {
+    "word": "Indigenous",
+    "meaning": "Native",
+    "synonyms": ["Local", "Original", "Aboriginal"],
+    "trick": "Indi-genous – Indian origin ka"
+  },
+  {
+    "word": "Indolent",
+    "meaning": "Lazy",
+    "synonyms": ["Sluggish", "Idle", "Inactive"],
+    "trick": "Dull student is indolent"
+  },
+  {
+    "word": "Induce",
+    "meaning": "To persuade or cause",
+    "synonyms": ["Persuade", "Encourage", "Stimulate"],
+    "trick": "Doctor induced labor"
+  },
+  {
+    "word": "Inevitable",
+    "meaning": "Unavoidable",
+    "synonyms": ["Certain", "Unavoidable", "Sure"],
+    "trick": "Jo happen hoga hi – inevitable"
+  },
+  {
+    "word": "Infer",
+    "meaning": "To conclude from evidence",
+    "synonyms": ["Deduce", "Conclude", "Interpret"],
+    "trick": "Information se infer karo"
+  },
+  {
+    "word": "Influx",
+    "meaning": "Arrival in large numbers",
+    "synonyms": ["Inflow", "Rush", "Flood"],
+    "trick": "People ka flood = influx"
+  },
+  {
+    "word": "Ingenious",
+    "meaning": "Clever and inventive",
+    "synonyms": ["Creative", "Innovative", "Smart"],
+    "trick": "Genius jaisa – brilliant"
+  },
+  {
+    "word": "Inhibit",
+    "meaning": "To hold back or restrain",
+    "synonyms": ["Restrain", "Prevent", "Suppress"],
+    "trick": "Inhibit = inhibit karna = rokhna"
+  },
+  {
+    "word": "Innate",
+    "meaning": "Inborn; natural",
+    "synonyms": ["Inherent", "Natural", "Instinctive"],
+    "trick": "Inside se aaya hua = innate talent"
+  },
+  {
+    "word": "Innocuous",
+    "meaning": "Harmless",
+    "synonyms": ["Harmless", "Safe", "Inoffensive"],
+    "trick": "Innocent cheez innocuous hoti hai"
+  },
+  {
+    "word": "Insinuate",
+    "meaning": "To suggest indirectly",
+    "synonyms": ["Imply", "Suggest", "Hint"],
+    "trick": "Signal deta hai subtly = insinuate"
+  },
+  {
+    "word": "Insipid",
+    "meaning": "Boring and dull",
+    "synonyms": ["Tasteless", "Dull", "Flat"],
+    "trick": "Sip kiya but taste nahi – insipid"
+  },
+  {
+    "word": "Instigate",
+    "meaning": "To provoke or start",
+    "synonyms": ["Incite", "Provoke", "Urge"],
+    "trick": "Gussa instigate kiya"
+  },
+  {
+    "word": "Intrepid",
+    "meaning": "Brave; fearless",
+    "synonyms": ["Courageous", "Valiant", "Daring"],
+    "trick": "Trip pe gaya intrepid soldier"
+  },
+  {
+    "word": "Intricate",
+    "meaning": "Complex and detailed",
+    "synonyms": ["Complicated", "Elaborate", "Detailed"],
+    "trick": "Tricky aur detailed = intricate design"
+  },
+  {
+    "word": "Invoke",
+    "meaning": "To call upon (especially a higher power or law)",
+    "synonyms": ["Appeal", "Summon", "Call forth"],
+    "trick": "Wake up the power – invoke it!"
+  },
+  {
+    "word": "Jeopardy",
+    "meaning": "Danger of loss or harm",
+    "synonyms": ["Danger", "Risk", "Hazard"],
+    "trick": "Job party mein fight ho gayi – career in jeopardy"
+  },
+  {
+    "word": "Jocular",
+    "meaning": "Joking, humorous",
+    "synonyms": ["Funny", "Jovial", "Playful"],
+    "trick": "Joke karne wala – Jocular"
+  },
+  {
+    "word": "Judicious",
+    "meaning": "Showing good judgment",
+    "synonyms": ["Wise", "Sensible", "Prudent"],
+    "trick": "Judge jaisa decision – judicious"
+  },
+  {
+    "word": "Juxtapose",
+    "meaning": "To place side by side",
+    "synonyms": ["Compare", "Contrast", "Place together"],
+    "trick": "Just a pose side by side – juxtapose"
+  },
+  {
+    "word": "Jettison",
+    "meaning": "To throw away or discard",
+    "synonyms": ["Discard", "Dump", "Abandon"],
+    "trick": "Jet se son (child) ko phenkna – jettison"
+  },
+  {
+    "word": "Jubilant",
+    "meaning": "Feeling great joy",
+    "synonyms": ["Overjoyed", "Elated", "Ecstatic"],
+    "trick": "Jubilee hone par log jubilant ho jaate hain"
+  },
+  {
+    "word": "Jargon",
+    "meaning": "Specialized language",
+    "synonyms": ["Terminology", "Lingo", "Slang"],
+    "trick": "Engineering ka alag hi jargon hota hai"
+  },
+  {
+    "word": "Jaundiced",
+    "meaning": "Biased or prejudiced",
+    "synonyms": ["Biased", "Prejudiced", "Skeptical"],
+    "trick": "Jaundice ho gaya to sab kuch yellow dikhai deta hai – biased view"
+  },
+  {
+    "word": "Jettison",
+    "meaning": "To throw off (especially from aircraft/ship)",
+    "synonyms": ["Eject", "Discard", "Abandon"],
+    "trick": "Jet se son ko phek diya – jettison"
+  },
+  {
+    "word": "Jibe",
+    "meaning": "To be in agreement; or a taunt",
+    "synonyms": ["Agree", "Match", "Mock"],
+    "trick": "Jibe with = match; jibe = taunt too"
+  },
+  {
+    "word": "Jocose",
+    "meaning": "Playful or humorous",
+    "synonyms": ["Joking", "Funny", "Merry"],
+    "trick": "Joke close – jocose"
+  },
+  {
+    "word": "Jingoism",
+    "meaning": "Extreme patriotism",
+    "synonyms": ["Nationalism", "Chauvinism", "Fanaticism"],
+    "trick": "Jinga la la patriotism"
+  },
+  {
+    "word": "Jettatura",
+    "meaning": "Evil eye",
+    "synonyms": ["Curse", "Hex", "Spell"],
+    "trick": "Jetta’s atura nazar – buri nazar"
+  },
+  {
+    "word": "Jettiness",
+    "meaning": "Blackness like jet",
+    "synonyms": ["Blackness", "Darkness", "Obscurity"],
+    "trick": "Jet black color = jettiness"
+  },
+  {
+    "word": "Jocund",
+    "meaning": "Cheerful and lighthearted",
+    "synonyms": ["Jovial", "Merry", "Lively"],
+    "trick": "Joke+fund – full masti"
+  },
+  {
+    "word": "Judder",
+    "meaning": "To shake violently",
+    "synonyms": ["Shake", "Vibrate", "Tremble"],
+    "trick": "Juda ho gaya to judder – shake"
+  },
+  {
+    "word": "Jumble",
+    "meaning": "Mix in a confused way",
+    "synonyms": ["Mix up", "Disorder", "Confuse"],
+    "trick": "Jumble sale – everything mixed"
+  },
+  {
+    "word": "Junta",
+    "meaning": "Military group ruling a country",
+    "synonyms": ["Regime", "Government", "Cabinet"],
+    "trick": "Junta ne rule sambhala – military junta"
+  },
+  {
+    "word": "Jovial",
+    "meaning": "Good-humored",
+    "synonyms": ["Cheerful", "Happy", "Jolly"],
+    "trick": "Jo vill (jovial) mein sab haste hain"
+  },
+  {
+    "word": "Jabber",
+    "meaning": "Talk rapidly and excitedly",
+    "synonyms": ["Chatter", "Blabber", "Babble"],
+    "trick": "Jab bar bar bole – jabber"
+  },
+  {
+    "word": "Jeer",
+    "meaning": "To mock or ridicule",
+    "synonyms": ["Taunt", "Mock", "Ridicule"],
+    "trick": "Jeer karna = cheer ka ulta – insult"
+  },
+  {
+    "word": "Jibe",
+    "meaning": "To mock or insult",
+    "synonyms": ["Taunt", "Mock", "Ridicule"],
+    "trick": "Jibe – jab baar baar bole insult"
+  },
+  {
+    "word": "Jaded",
+    "meaning": "Tired or bored of something",
+    "synonyms": ["Weary", "Fatigued", "Bored"],
+    "trick": "Jade ho gaya routine se – jaded"
+  },
+  {
+    "word": "Jostle",
+    "meaning": "To push or shove",
+    "synonyms": ["Bump", "Shove", "Push"],
+    "trick": "Jo style se chalta hai, sabse jostle karta hai"
+  },
+  {
+    "word": "Jamboree",
+    "meaning": "A large celebration",
+    "synonyms": ["Festival", "Party", "Gathering"],
+    "trick": "Jam+bori full of sweets – big party"
+  },
+  {
+    "word": "Jittery",
+    "meaning": "Nervous or anxious",
+    "synonyms": ["Anxious", "Nervous", "Fidgety"],
+    "trick": "Jitna socha utna darr – jittery"
+  },
+  {
+    "word": "Jaunty",
+    "meaning": "Lively and confident",
+    "synonyms": ["Cheerful", "Breezy", "Confident"],
+    "trick": "Jawan like – jaunty"
+  },
+  {
+    "word": "Justify",
+    "meaning": "To prove right",
+    "synonyms": ["Explain", "Defend", "Validate"],
+    "trick": "Judge ke samne justify karna padta hai"
+  },
+  {
+    "word": "Jurisprudence",
+    "meaning": "Philosophy of law",
+    "synonyms": ["Legal theory", "Law", "Legislation"],
+    "trick": "Jury+prudence = wisdom of law"
+  },
+  {
+    "word": "Judiciary",
+    "meaning": "System of courts",
+    "synonyms": ["Court", "Bench", "Magistrate"],
+    "trick": "Judges ka area – judiciary"
+  },
+  {
+    "word": "Keen",
+    "meaning": "Eager or enthusiastic",
+    "synonyms": ["Eager", "Enthusiastic", "Zealous"],
+    "trick": "Keen student hamesha seekhne ko ready rehta hai"
+  },
+  {
+    "word": "Knavery",
+    "meaning": "Dishonest or unscrupulous behavior",
+    "synonyms": ["Deceit", "Fraud", "Trickery"],
+    "trick": "Knave matlab chor, Knavery matlab chalaki se dhoka"
+  },
+  {
+    "word": "Kindle",
+    "meaning": "To ignite or arouse",
+    "synonyms": ["Ignite", "Stimulate", "Provoke"],
+    "trick": "Kindle fire jalaata hai, waise hi emotions ko bhi jagaata hai"
+  },
+  {
+    "word": "Kin",
+    "meaning": "Relatives or family members",
+    "synonyms": ["Relatives", "Relations", "Family"],
+    "trick": "Kin matlab apne – jaise 'khandaan'"
+  },
+  {
+    "word": "Kudos",
+    "meaning": "Praise and honor for an achievement",
+    "synonyms": ["Praise", "Acclaim", "Compliment"],
+    "trick": "Kudos milta hai jab acha kaam karein"
+  },
+  {
+    "word": "Kaleidoscope",
+    "meaning": "A constantly changing pattern or sequence",
+    "synonyms": ["Mixture", "Variety", "Pattern"],
+    "trick": "Kaleidoscope ka view hamesha alag lagta hai"
+  },
+  {
+    "word": "Kibitz",
+    "meaning": "To give unwanted advice",
+    "synonyms": ["Interfere", "Meddle", "Advise unnecessarily"],
+    "trick": "Kibitzer har baat mein taang adaata hai"
+  },
+  {
+    "word": "Kith",
+    "meaning": "Friends and acquaintances",
+    "synonyms": ["Companions", "Associates", "Friends"],
+    "trick": "Kith and Kin matlab friends and family"
+  },
+  {
+    "word": "Keen-sighted",
+    "meaning": "Having sharp vision or perception",
+    "synonyms": ["Observant", "Perceptive", "Sharp-eyed"],
+    "trick": "Keen-sighted insaan chhoti baat bhi pakad leta hai"
+  },
+  {
+    "word": "Kibosh",
+    "meaning": "To put an end to something",
+    "synonyms": ["Suppress", "Halt", "Stop"],
+    "trick": "Boss ne kibosh laga diya – sab band"
+  },
+  {
+    "word": "Kindred",
+    "meaning": "Similar in nature or character",
+    "synonyms": ["Related", "Similar", "Alike"],
+    "trick": "Kindred spirits matlab same nature wale log"
+  },
+  {
+    "word": "Knight",
+    "meaning": "A man awarded a non-hereditary title of honor",
+    "synonyms": ["Noble", "Warrior", "Defender"],
+    "trick": "Knight king ko protect karta hai"
+  },
+  {
+    "word": "Keenly",
+    "meaning": "With intense interest",
+    "synonyms": ["Intensely", "Eagerly", "Sharply"],
+    "trick": "Keenly dekha toh sab kuch samajh gaya"
+  },
+  {
+    "word": "Kinky",
+    "meaning": "Unusual or strange (often sexually)",
+    "synonyms": ["Twisted", "Unconventional", "Peculiar"],
+    "trick": "Kinky log hatke sochte hain"
+  },
+  {
+    "word": "Keel",
+    "meaning": "To fall over or collapse",
+    "synonyms": ["Collapse", "Fall", "Tumble"],
+    "trick": "Heat mein bhaagke keel ho gaya – gir gaya"
+  },
+  {
+    "word": "Knavish",
+    "meaning": "Dishonest or unprincipled",
+    "synonyms": ["Unethical", "Crooked", "Deceitful"],
+    "trick": "Knave ka kaam hamesha knavish hota hai"
+  },
+  {
+    "word": "Keenness",
+    "meaning": "Eagerness or enthusiasm",
+    "synonyms": ["Eagerness", "Enthusiasm", "Zest"],
+    "trick": "Keenness dikhao, selection pakka"
+  },
+  {
+    "word": "Kilter",
+    "meaning": "Proper condition or order",
+    "synonyms": ["Balance", "Order", "Shape"],
+    "trick": "Machine out of kilter hai – sahi se kaam nahi kar raha"
+  },
+  {
+    "word": "Knell",
+    "meaning": "Sound of a bell, especially for death",
+    "synonyms": ["Toll", "Chime", "Peal"],
+    "trick": "Knell bajta hai jab koi mar jaata hai"
+  },
+  {
+    "word": "Kickback",
+    "meaning": "Illegal payment or bribe",
+    "synonyms": ["Bribe", "Commission", "Cut"],
+    "trick": "Kickback milta hai black kaam ka reward"
+  },
+  {
+    "word": "Kernel",
+    "meaning": "Core or essential part",
+    "synonyms": ["Core", "Essence", "Nucleus"],
+    "trick": "Kernel of truth – sach ka mool"
+  },
+  {
+    "word": "Kindness",
+    "meaning": "The quality of being kind",
+    "synonyms": ["Compassion", "Generosity", "Benevolence"],
+    "trick": "Kindness dikhane se sab jeet jaate hain"
+  },
+  {
+    "word": "Knavery",
+    "meaning": "Rogue or trickster behavior",
+    "synonyms": ["Deceit", "Roguery", "Fraud"],
+    "trick": "Knave karta hai knavery"
+  },
+  {
+    "word": "Knockout",
+    "meaning": "Stunningly attractive or a decisive victory",
+    "synonyms": ["Stunner", "Victory", "Beauty"],
+    "trick": "Boxer ka punch tha knockout"
+  },
+  {
+    "word": "Kook",
+    "meaning": "Crazy or eccentric person",
+    "synonyms": ["Eccentric", "Weirdo", "Oddball"],
+    "trick": "Kook log ajeeb harkatein karte hain"
+  },
+  {
+    "word": "Keelhaul",
+    "meaning": "To punish severely",
+    "synonyms": ["Scold", "Rebuke", "Punish"],
+    "trick": "Galti pe boss ne keelhaul kar diya"
+  },
+  {
+    "word": "Kibbitz",
+    "meaning": "Chat casually or gossip",
+    "synonyms": ["Chatter", "Talk", "Gossip"],
+    "trick": "Kibbitz karte karte kaam bhool gaya"
+  },
+  {
+    "word": "Krypton",
+    "meaning": "A chemical element; used metaphorically as strength (Superman)",
+    "synonyms": ["Element", "Strength (figurative)"],
+    "trick": "Superman ka power – Krypton se"
+  },
+  {
+    "word": "Keynote",
+    "meaning": "Central idea or theme",
+    "synonyms": ["Theme", "Essence", "Message"],
+    "trick": "Speech ka keynote hota hai main idea"
+  },
+  {
+    "word": "Kinetic",
+    "meaning": "Relating to motion",
+    "synonyms": ["Moving", "Active", "Dynamic"],
+    "trick": "Kinetic energy – chalne wali urja"
+  },
+  {
+    "word": "Lackadaisical",
+    "meaning": "Lacking enthusiasm and determination",
+    "synonyms": ["Lazy", "Careless", "Indifferent"],
+    "trick": "Lack kar raha hai daise hi – kaam mein bilkul interest nahi"
+  },
+  {
+    "word": "Lament",
+    "meaning": "To express sorrow or grief",
+    "synonyms": ["Mourn", "Grieve", "Wail"],
+    "trick": "La main toot gaya, ab toh rona hi padega"
+  },
+  {
+    "word": "Larceny",
+    "meaning": "Theft of personal property",
+    "synonyms": ["Theft", "Stealing", "Robbery"],
+    "trick": "Laar chor hai – larceny ka kaam karta hai"
+  },
+  {
+    "word": "Lassitude",
+    "meaning": "A state of physical or mental weariness",
+    "synonyms": ["Fatigue", "Exhaustion", "Lethargy"],
+    "trick": "Lassi pi ke attitude gayab – neend aa gayi"
+  },
+  {
+    "word": "Latent",
+    "meaning": "Hidden or concealed",
+    "synonyms": ["Dormant", "Hidden", "Potential"],
+    "trick": "Late hota hai dikhne mein – latent talent"
+  },
+  {
+    "word": "Laud",
+    "meaning": "To praise highly",
+    "synonyms": ["Applaud", "Praise", "Admire"],
+    "trick": "Lord ko humesha laud karte hain"
+  },
+  {
+    "word": "Lavish",
+    "meaning": "Very generous or extravagant",
+    "synonyms": ["Luxurious", "Extravagant", "Opulent"],
+    "trick": "La wish – har wish puri ho rahi, lavish life hai"
+  },
+  {
+    "word": "Legible",
+    "meaning": "Clear enough to read",
+    "synonyms": ["Readable", "Clear", "Understandable"],
+    "trick": "Legal papers legible hone chahiye"
+  },
+  {
+    "word": "Legitimate",
+    "meaning": "Lawful or proper",
+    "synonyms": ["Lawful", "Valid", "Authentic"],
+    "trick": "Legit ka matlab hi hota hai sahi – legitimate reason"
+  },
+  {
+    "word": "Lenient",
+    "meaning": "Not strict",
+    "synonyms": ["Tolerant", "Merciful", "Easygoing"],
+    "trick": "Lean teacher lenient hoti hai – strict nahi"
+  },
+  {
+    "word": "Levity",
+    "meaning": "Lack of seriousness",
+    "synonyms": ["Frivolity", "Joking", "Lightness"],
+    "trick": "Leave it yaar – levity mein sab hasi mazaak"
+  },
+  {
+    "word": "Libel",
+    "meaning": "A false written statement that damages reputation",
+    "synonyms": ["Defamation", "Slander", "Misrepresentation"],
+    "trick": "Label galat lagaya – libel case ban gaya"
+  },
+  {
+    "word": "Liberal",
+    "meaning": "Open to new opinions and generous",
+    "synonyms": ["Open-minded", "Generous", "Tolerant"],
+    "trick": "Liberal log har kisi ko respect dete hain"
+  },
+  {
+    "word": "Licentious",
+    "meaning": "Lacking moral restraint",
+    "synonyms": ["Immoral", "Unrestrained", "Corrupt"],
+    "trick": "License mila hi nahi par fir bhi kaam karta – licentious aadmi"
+  },
+  {
+    "word": "Limpid",
+    "meaning": "Clear and transparent",
+    "synonyms": ["Clear", "Transparent", "Lucid"],
+    "trick": "Limpid water means bilkul crystal clear"
+  },
+  {
+    "word": "Listless",
+    "meaning": "Lacking energy or enthusiasm",
+    "synonyms": ["Lethargic", "Languid", "Lifeless"],
+    "trick": "List mein kuch bhi pasand nahi – listless mood"
+  },
+  {
+    "word": "Litigate",
+    "meaning": "To take legal action",
+    "synonyms": ["Sue", "Prosecute", "Contest"],
+    "trick": "Light jala ke gate pe case file – litigate"
+  },
+  {
+    "word": "Livid",
+    "meaning": "Furiously angry",
+    "synonyms": ["Enraged", "Infuriated", "Fuming"],
+    "trick": "Lover ne ignore kiya toh girl ho gayi livid"
+  },
+  {
+    "word": "Loathe",
+    "meaning": "To hate deeply",
+    "synonyms": ["Hate", "Detest", "Despise"],
+    "trick": "Low tha taste, isiliye loathe kar diya"
+  },
+  {
+    "word": "Loom",
+    "meaning": "To appear in a threatening way",
+    "synonyms": ["Emerge", "Appear", "Hover"],
+    "trick": "Exam looming over head – stress aa gaya"
+  },
+  {
+    "word": "Lucid",
+    "meaning": "Clear and easy to understand",
+    "synonyms": ["Clear", "Evident", "Intelligible"],
+    "trick": "Tu CID dekh, sab lucid ho jayega"
+  },
+  {
+    "word": "Lucrative",
+    "meaning": "Producing a great deal of profit",
+    "synonyms": ["Profitable", "Gainful", "Rewarding"],
+    "trick": "Luxury ka native – lucrative job"
+  },
+  {
+    "word": "Lugubrious",
+    "meaning": "Looking or sounding sad and dismal",
+    "synonyms": ["Mournful", "Gloomy", "Melancholy"],
+    "trick": "Luggage chori ho gaya – lugubrious mood"
+  },
+  {
+    "word": "Lull",
+    "meaning": "Temporary pause or break",
+    "synonyms": ["Pause", "Break", "Hiatus"],
+    "trick": "Lullaby sun ke baby so gaya – lull aa gaya"
+  },
+  {
+    "word": "Luminous",
+    "meaning": "Bright or shining",
+    "synonyms": ["Radiant", "Glowing", "Shining"],
+    "trick": "Light wala minus luminous hota hai"
+  },
+  {
+    "word": "Lure",
+    "meaning": "To attract or tempt",
+    "synonyms": ["Tempt", "Entice", "Allure"],
+    "trick": "Lure karne ke liye chocolate diya"
+  },
+  {
+    "word": "Luxuriant",
+    "meaning": "Rich and profuse in growth",
+    "synonyms": ["Lush", "Rich", "Abundant"],
+    "trick": "Luxury wale garden mein luxuriant paudhe hote hain"
+  },
+  {
+    "word": "Labyrinth",
+    "meaning": "A maze or complicated network",
+    "synonyms": ["Maze", "Tangle", "Complexity"],
+    "trick": "Lab mein scientist kho gaya – pura labyrinth tha"
+  },
+  {
+    "word": "Lacerate",
+    "meaning": "To tear or cut roughly",
+    "synonyms": ["Tear", "Slash", "Wound"],
+    "trick": "Laser se lacerate ho gaya skin"
+  },
+  {
+    "word": "Legerdemain",
+    "meaning": "Skillful use of hands in magic",
+    "synonyms": ["Trickery", "Deception", "Sleight"],
+    "trick": "Ledger mein sab kuch chhupa liya – pura magic tha – legerdemain"
+  },
+  {
+    "word": "Magnanimous",
+    "meaning": "Generous and forgiving",
+    "synonyms": ["Generous", "Charitable", "Big-hearted"],
+    "trick": "Magnet jaisa dil – sabko attract kare, bada dil wala"
+  },
+  {
+    "word": "Malicious",
+    "meaning": "Intending to harm",
+    "synonyms": ["Spiteful", "Hostile", "Wicked"],
+    "trick": "Mal + suspicious – bure irade wale"
+  },
+  {
+    "word": "Malevolent",
+    "meaning": "Wishing evil to others",
+    "synonyms": ["Evil-minded", "Spiteful", "Malicious"],
+    "trick": "Mal + violent – dusron ke liye violent soch"
+  },
+  {
+    "word": "Mandatory",
+    "meaning": "Compulsory",
+    "synonyms": ["Required", "Obligatory", "Necessary"],
+    "trick": "Mandir jaana mandatory hai mummy ke liye"
+  },
+  {
+    "word": "Manifest",
+    "meaning": "To show clearly",
+    "synonyms": ["Display", "Reveal", "Exhibit"],
+    "trick": "Mani (money) fest mein sab dikh gaya clearly"
+  },
+  {
+    "word": "Maneuver",
+    "meaning": "A movement or action that requires skill",
+    "synonyms": ["Move", "Operation", "Tactic"],
+    "trick": "Man + over – over smart move"
+  },
+  {
+    "word": "Mediocre",
+    "meaning": "Of average quality",
+    "synonyms": ["Average", "Ordinary", "Common"],
+    "trick": "Mediocre student ne na fail kiya na top"
+  },
+  {
+    "word": "Meticulous",
+    "meaning": "Very careful and precise",
+    "synonyms": ["Detailed", "Thorough", "Exact"],
+    "trick": "Meter ke hisab se – bahut hi precise"
+  },
+  {
+    "word": "Mitigate",
+    "meaning": "To make less severe",
+    "synonyms": ["Reduce", "Ease", "Alleviate"],
+    "trick": "Mitti gate pe gira diya – impact kam ho gaya"
+  },
+  {
+    "word": "Morbid",
+    "meaning": "Gruesome or related to death",
+    "synonyms": ["Gloomy", "Grim", "Macabre"],
+    "trick": "More + dead = morbid soch"
+  },
+  {
+    "word": "Monotonous",
+    "meaning": "Lacking variety; dull",
+    "synonyms": ["Repetitive", "Boring", "Tedious"],
+    "trick": "Mono tone – ek hi awaz baar baar"
+  },
+  {
+    "word": "Mundane",
+    "meaning": "Ordinary or dull",
+    "synonyms": ["Routine", "Uninteresting", "Boring"],
+    "trick": "Monday jaisa boring – mundane"
+  },
+  {
+    "word": "Mutiny",
+    "meaning": "Revolt against authority",
+    "synonyms": ["Rebellion", "Uprising", "Revolt"],
+    "trick": "Military ne kiya mutiny"
+  },
+  {
+    "word": "Mollify",
+    "meaning": "To calm or soothe",
+    "synonyms": ["Pacify", "Appease", "Soothe"],
+    "trick": "Ma boli – beta mollify ho ja"
+  },
+  {
+    "word": "Maverick",
+    "meaning": "Independent-minded person",
+    "synonyms": ["Nonconformist", "Rebel", "Independent"],
+    "trick": "Maverick hero – sabse alag"
+  },
+  {
+    "word": "Morale",
+    "meaning": "The confidence or spirit of a group",
+    "synonyms": ["Confidence", "Spirit", "Enthusiasm"],
+    "trick": "Morale high to jeet pakki"
+  },
+  {
+    "word": "Mirth",
+    "meaning": "Amusement or laughter",
+    "synonyms": ["Joy", "Glee", "Happiness"],
+    "trick": "Mirth = mirthful smile"
+  },
+  {
+    "word": "Misogynist",
+    "meaning": "One who hates women",
+    "synonyms": ["Woman-hater", "Chauvinist"],
+    "trick": "Miss-o-gone-ist – ladkiyon se nafrat"
+  },
+  {
+    "word": "Monopoly",
+    "meaning": "Exclusive control over something",
+    "synonyms": ["Control", "Dominance", "Ownership"],
+    "trick": "Monu ka shop – monopoly uska hi hai"
+  },
+  {
+    "word": "Morose",
+    "meaning": "Sullen and gloomy",
+    "synonyms": ["Gloomy", "Sullen", "Sad"],
+    "trick": "Moro se rote hue – morose"
+  },
+  {
+    "word": "Meander",
+    "meaning": "To wander aimlessly",
+    "synonyms": ["Wander", "Roam", "Drift"],
+    "trick": "Me and her ghoom rahe the bina plan"
+  },
+  {
+    "word": "Malady",
+    "meaning": "A disease or disorder",
+    "synonyms": ["Illness", "Sickness", "Disorder"],
+    "trick": "Mala di gayi bimari ke liye"
+  },
+  {
+    "word": "Militant",
+    "meaning": "Aggressively active in support of a cause",
+    "synonyms": ["Aggressive", "Combative", "Fighter"],
+    "trick": "Militant hamesha ready for war"
+  },
+  {
+    "word": "Memento",
+    "meaning": "An object kept as a reminder",
+    "synonyms": ["Souvenir", "Keepsake", "Token"],
+    "trick": "Mummy ne diya memento – yaadgar"
+  },
+  {
+    "word": "Malfunction",
+    "meaning": "Failure to function properly",
+    "synonyms": ["Breakdown", "Defect", "Error"],
+    "trick": "Machine ka function gaya – malfunction"
+  },
+  {
+    "word": "Mischievous",
+    "meaning": "Causing trouble in a playful way",
+    "synonyms": ["Naughty", "Playful", "Teasing"],
+    "trick": "Mis chief – chhoti moti shararat"
+  },
+  {
+    "word": "Multitude",
+    "meaning": "A large number of people or things",
+    "synonyms": ["Crowd", "Mass", "Host"],
+    "trick": "Multi log – bhiḍ"
+  },
+  {
+    "word": "Maim",
+    "meaning": "To injure seriously",
+    "synonyms": ["Disable", "Wound", "Injure"],
+    "trick": "Main aim kar gaya – uska haath kaat diya"
+  },
+  {
+    "word": "Malign",
+    "meaning": "To speak harmful untruths about",
+    "synonyms": ["Defame", "Slander", "Vilify"],
+    "trick": "Mala ne line maarne ke baad badnaam kiya – malign"
+  },
+  {
+    "word": "Moratorium",
+    "meaning": "Temporary ban or suspension",
+    "synonyms": ["Suspension", "Ban", "Freeze"],
+    "trick": "More auditorium events pe moratorium lag gaya"
+  },
+  {
+    "word": "Nadir",
+    "meaning": "Lowest point",
+    "synonyms": ["Bottom", "Depth", "Rock-bottom"],
+    "trick": "Nadir par aa gaya matlab sabse neeche"
+  },
+  {
+    "word": "Nefarious",
+    "meaning": "Wicked or criminal",
+    "synonyms": ["Evil", "Sinful", "Vile"],
+    "trick": "Nefarious villain ne sab kuch barbaad kar diya"
+  },
+  {
+    "word": "Negligible",
+    "meaning": "So small as to be not worth considering",
+    "synonyms": ["Insignificant", "Trivial", "Minimal"],
+    "trick": "Negligible means ignore karne layak chhota"
+  },
+  {
+    "word": "Nostalgia",
+    "meaning": "Sentimental longing for the past",
+    "synonyms": ["Longing", "Reminiscence", "Yearning"],
+    "trick": "Old songs sunte hi nostalgia aa gaya"
+  },
+  {
+    "word": "Naive",
+    "meaning": "Innocent and inexperienced",
+    "synonyms": ["Innocent", "Gullible", "Unsophisticated"],
+    "trick": "Naive log easily ullu ban jaate hain"
+  },
+  {
+    "word": "Notorious",
+    "meaning": "Famous for something bad",
+    "synonyms": ["Infamous", "Scandalous", "Disreputable"],
+    "trick": "Notorious gangster ka naam har jagah badnaam"
+  },
+  {
+    "word": "Nullify",
+    "meaning": "To cancel or make ineffective",
+    "synonyms": ["Cancel", "Invalidate", "Abolish"],
+    "trick": "Nullify matlab effect khatam karna"
+  },
+  {
+    "word": "Nurture",
+    "meaning": "To care for and encourage growth",
+    "synonyms": ["Foster", "Raise", "Cultivate"],
+    "trick": "Maa nurture karti hai bachpan se"
+  },
+  {
+    "word": "Nomadic",
+    "meaning": "Wandering from place to place",
+    "synonyms": ["Wandering", "Roaming", "Itinerant"],
+    "trick": "Nomads hamesha ghoomte rehte hain"
+  },
+  {
+    "word": "Nonchalant",
+    "meaning": "Calm and unconcerned",
+    "synonyms": ["Indifferent", "Cool", "Unemotional"],
+    "trick": "Nonchalant attitude – kuch farak hi nahi padta"
+  },
+  {
+    "word": "Notion",
+    "meaning": "An idea or belief",
+    "synonyms": ["Idea", "Belief", "View"],
+    "trick": "Mere dimaag mein ek notion aaya"
+  },
+  {
+    "word": "Naivety",
+    "meaning": "Lack of experience or sophistication",
+    "synonyms": ["Innocence", "Simplicity", "Childishness"],
+    "trick": "Naivety mein sabko trust kar liya"
+  },
+  {
+    "word": "Negotiate",
+    "meaning": "To discuss and reach agreement",
+    "synonyms": ["Bargain", "Deal", "Mediate"],
+    "trick": "Negotiate kar ke achha price mil gaya"
+  },
+  {
+    "word": "Nimble",
+    "meaning": "Quick and light in movement or action",
+    "synonyms": ["Agile", "Swift", "Lively"],
+    "trick": "Nimble gymnast ekdum fast tha"
+  },
+  {
+    "word": "Nudge",
+    "meaning": "To gently push",
+    "synonyms": ["Poke", "Prod", "Push lightly"],
+    "trick": "Friend ko nudge kiya toh jag gaya"
+  },
+  {
+    "word": "Noxious",
+    "meaning": "Harmful or poisonous",
+    "synonyms": ["Toxic", "Deadly", "Poisonous"],
+    "trick": "Noxious gas se saans lena mushkil ho gaya"
+  },
+  {
+    "word": "Noble",
+    "meaning": "Having high moral qualities",
+    "synonyms": ["Honorable", "Virtuous", "Dignified"],
+    "trick": "Noble king logon ka bhala karta tha"
+  },
+  {
+    "word": "Narrate",
+    "meaning": "To tell a story",
+    "synonyms": ["Tell", "Describe", "Recount"],
+    "trick": "Grandfather kahani narrate karte hain"
+  },
+  {
+    "word": "Narrow-minded",
+    "meaning": "Not willing to accept new ideas",
+    "synonyms": ["Bigoted", "Biased", "Intolerant"],
+    "trick": "Narrow-minded log naye ideas accept nahi karte"
+  },
+  {
+    "word": "Neutral",
+    "meaning": "Not taking sides",
+    "synonyms": ["Impartial", "Unbiased", "Disinterested"],
+    "trick": "Referee neutral hona chahiye"
+  },
+  {
+    "word": "Navigate",
+    "meaning": "To find direction",
+    "synonyms": ["Guide", "Steer", "Direct"],
+    "trick": "Google Maps se navigate kiya raste mein"
+  },
+  {
+    "word": "Noteworthy",
+    "meaning": "Deserving attention",
+    "synonyms": ["Significant", "Remarkable", "Notable"],
+    "trick": "Uska performance noteworthy tha"
+  },
+  {
+    "word": "Nurturing",
+    "meaning": "Caring and encouraging growth",
+    "synonyms": ["Fostering", "Supporting", "Developing"],
+    "trick": "Teacher ka nurturing attitude sabko pasand tha"
+  },
+  {
+    "word": "Nascent",
+    "meaning": "Just coming into existence",
+    "synonyms": ["Emerging", "Developing", "Budding"],
+    "trick": "Startup abhi nascent stage mein hai"
+  },
+  {
+    "word": "Neglect",
+    "meaning": "To fail to care properly",
+    "synonyms": ["Ignore", "Overlook", "Disregard"],
+    "trick": "Plant ko neglect kiya toh sukh gaya"
+  },
+  {
+    "word": "Numb",
+    "meaning": "Lacking feeling or sensation",
+    "synonyms": ["Unfeeling", "Insensitive", "Frozen"],
+    "trick": "Cold mein haath numb ho gaye"
+  },
+  {
+    "word": "Novel",
+    "meaning": "New or unusual",
+    "synonyms": ["Innovative", "Fresh", "Original"],
+    "trick": "Uska idea novel tha – pehli baar suna"
+  },
+  {
+    "word": "Niche",
+    "meaning": "A specialized segment or role",
+    "synonyms": ["Position", "Role", "Slot"],
+    "trick": "Apna niche dhundho aur expert bano"
+  },
+  {
+    "word": "Nonviolence",
+    "meaning": "Avoidance of physical force",
+    "synonyms": ["Pacifism", "Peacefulness", "Ahimsa"],
+    "trick": "Gandhiji nonviolence ke supporter the"
+  },
+  {
+    "word": "Nurtured",
+    "meaning": "Cared for from a young stage",
+    "synonyms": ["Raised", "Educated", "Cultivated"],
+    "trick": "Bachpan se nurture kiya toh successful bana"
+  },
+  {
+    "word": "Obdurate",
+    "meaning": "Stubbornly refusing to change one's opinion",
+    "synonyms": ["Stubborn", "Inflexible", "Unyielding"],
+    "trick": "Ob-durate banda apni baat se hilta hi nahi"
+  },
+  {
+    "word": "Obfuscate",
+    "meaning": "To make something unclear or confusing",
+    "synonyms": ["Confuse", "Complicate", "Blur"],
+    "trick": "Obvious ko confuse kar diya – obfuscate"
+  },
+  {
+    "word": "Obliterate",
+    "meaning": "To destroy completely",
+    "synonyms": ["Destroy", "Eliminate", "Wipe out"],
+    "trick": "Bomb blast ne pura area obliterate kar diya"
+  },
+  {
+    "word": "Oblivion",
+    "meaning": "State of being forgotten",
+    "synonyms": ["Forgetfulness", "Unawareness", "Neglect"],
+    "trick": "Old actor oblivion mein chala gaya – koi yaad nahi karta"
+  },
+  {
+    "word": "Obnoxious",
+    "meaning": "Extremely unpleasant or offensive",
+    "synonyms": ["Rude", "Offensive", "Disgusting"],
+    "trick": "Ob-noxious log hamesha irritate karte hain"
+  },
+  {
+    "word": "Obsolete",
+    "meaning": "Outdated; no longer in use",
+    "synonyms": ["Outdated", "Old-fashioned", "Outmoded"],
+    "trick": "Obsolete phone ab koi use nahi karta"
+  },
+  {
+    "word": "Obstruct",
+    "meaning": "To block or hinder",
+    "synonyms": ["Block", "Hinder", "Impede"],
+    "trick": "Road pe truck ne obstruct kar diya traffic"
+  },
+  {
+    "word": "Obtuse",
+    "meaning": "Slow to understand",
+    "synonyms": ["Dull", "Slow-witted", "Stupid"],
+    "trick": "Ob-tuse student ko kuch samajh hi nahi aata"
+  },
+  {
+    "word": "Occult",
+    "meaning": "Relating to the supernatural",
+    "synonyms": ["Mystic", "Supernatural", "Hidden"],
+    "trick": "Occult science – jaadu tona waala subject"
+  },
+  {
+    "word": "Odious",
+    "meaning": "Extremely unpleasant; repulsive",
+    "synonyms": ["Horrible", "Hateful", "Repugnant"],
+    "trick": "Odious smell ne sabko bhaagne par majboor kar diya"
+  },
+  {
+    "word": "Officious",
+    "meaning": "Too eager to offer help or advice",
+    "synonyms": ["Meddlesome", "Interfering", "Pushy"],
+    "trick": "Office ka chhota staff bhi officious ban gaya"
+  },
+  {
+    "word": "Ogle",
+    "meaning": "To stare at in a lecherous manner",
+    "synonyms": ["Stare", "Gawk", "Gaze"],
+    "trick": "Ogle karna matlab ghoorna – galat nazar se"
+  },
+  {
+    "word": "Ominous",
+    "meaning": "Suggesting something bad is going to happen",
+    "synonyms": ["Threatening", "Menacing", "Foreboding"],
+    "trick": "Dark clouds were ominous – toofan aane wala tha"
+  },
+  {
+    "word": "Omniscient",
+    "meaning": "All-knowing",
+    "synonyms": ["All-wise", "All-knowing", "Godlike"],
+    "trick": "OMNI-scientist sab kuch jaanta hai"
+  },
+  {
+    "word": "Opaque",
+    "meaning": "Not transparent; hard to understand",
+    "synonyms": ["Cloudy", "Muddy", "Obscure"],
+    "trick": "Opaque glass ke paar kuch dikhta nahi"
+  },
+  {
+    "word": "Opine",
+    "meaning": "To express an opinion",
+    "synonyms": ["Suggest", "Comment", "Propose"],
+    "trick": "Opinion dena = Opine karna"
+  },
+  {
+    "word": "Oppress",
+    "meaning": "To treat someone cruelly or unfairly",
+    "synonyms": ["Suppress", "Persecute", "Dominate"],
+    "trick": "Rajah ne praja ko oppress kiya"
+  },
+  {
+    "word": "Ordeal",
+    "meaning": "A very difficult or painful experience",
+    "synonyms": ["Hardship", "Trial", "Agony"],
+    "trick": "Exam dena ek ordeal hai mere liye"
+  },
+  {
+    "word": "Ornate",
+    "meaning": "Highly decorated",
+    "synonyms": ["Decorated", "Embellished", "Fancy"],
+    "trick": "Ornate mandir – bahut sajaya hua"
+  },
+  {
+    "word": "Ostentatious",
+    "meaning": "Showy or pretentious display",
+    "synonyms": ["Showy", "Flashy", "Boastful"],
+    "trick": "Ostentatious log har cheez dikhawa karte hain"
+  },
+  {
+    "word": "Ostracize",
+    "meaning": "To exclude someone from a group",
+    "synonyms": ["Exclude", "Shun", "Banish"],
+    "trick": "Us ladke ko ostracize kar diya – sabne alag kar diya"
+  },
+  {
+    "word": "Overt",
+    "meaning": "Open and observable",
+    "synonyms": ["Open", "Obvious", "Public"],
+    "trick": "Overt protest – sabke saamne hua"
+  },
+  {
+    "word": "Overwhelm",
+    "meaning": "To overpower emotionally or physically",
+    "synonyms": ["Submerge", "Crush", "Drown"],
+    "trick": "Itna kaam mila ki overwhelm ho gaya"
+  },
+  {
+    "word": "Overture",
+    "meaning": "An introduction to something more substantial",
+    "synonyms": ["Prelude", "Prologue", "Introduction"],
+    "trick": "Movie ka overture hi exciting tha"
+  },
+  {
+    "word": "Overbearing",
+    "meaning": "Unpleasantly overpowering",
+    "synonyms": ["Domineering", "Bossy", "Arrogant"],
+    "trick": "Overbearing manager ne sabko dara diya"
+  },
+  {
+    "word": "Overstate",
+    "meaning": "To exaggerate",
+    "synonyms": ["Exaggerate", "Inflate", "Amplify"],
+    "trick": "Usne apne marks overstate kar diye"
+  },
+  {
+    "word": "Overtired",
+    "meaning": "Excessively tired",
+    "synonyms": ["Exhausted", "Fatigued", "Weary"],
+    "trick": "Raat bhar kaam karke overtired ho gaya"
+  },
+  {
+    "word": "Oversee",
+    "meaning": "To supervise",
+    "synonyms": ["Supervise", "Monitor", "Manage"],
+    "trick": "Boss sab kaam oversee karta hai"
+  },
+  {
+    "word": "Overzealous",
+    "meaning": "Too enthusiastic",
+    "synonyms": ["Excessive", "Extreme", "Obsessive"],
+    "trick": "Overzealous student har waqt teacher ke peeche"
+  },
+  {
+    "word": "Overindulge",
+    "meaning": "To allow too much of something",
+    "synonyms": ["Excess", "Overdo", "Binge"],
+    "trick": "Overindulge in sweets – pet kharab ho gaya"
+  },
+  {
+    "word": "Pacify",
+    "meaning": "To calm or soothe",
+    "synonyms": ["Calm", "Appease", "Soothe"],
+    "trick": "Peaceify → Pacify – shaant kar diya"
+  },
+  {
+    "word": "Palpable",
+    "meaning": "Capable of being touched or felt",
+    "synonyms": ["Tangible", "Perceptible", "Noticeable"],
+    "trick": "Pal pad gaya – itna clear tha"
+  },
+  {
+    "word": "Paradox",
+    "meaning": "A statement that contradicts itself",
+    "synonyms": ["Contradiction", "Puzzle", "Mystery"],
+    "trick": "Para(Paragraph) mein dokha – logic ulta"
+  },
+  {
+    "word": "Paucity",
+    "meaning": "Smallness in quantity",
+    "synonyms": ["Scarcity", "Shortage", "Lack"],
+    "trick": "Pau (pao) khaane ki bhi kami thi"
+  },
+  {
+    "word": "Peril",
+    "meaning": "Serious danger",
+    "synonyms": ["Hazard", "Risk", "Threat"],
+    "trick": "Perilous path matlab khatra hi khatra"
+  },
+  {
+    "word": "Pertinent",
+    "meaning": "Relevant or applicable",
+    "synonyms": ["Relevant", "Apt", "Related"],
+    "trick": "Partinent point – topic se juda hua"
+  },
+  {
+    "word": "Placid",
+    "meaning": "Calm and peaceful",
+    "synonyms": ["Serene", "Tranquil", "Quiet"],
+    "trick": "Plastic jaisa smooth and calm"
+  },
+  {
+    "word": "Plethora",
+    "meaning": "An excess or overabundance",
+    "synonyms": ["Excess", "Overflow", "Surplus"],
+    "trick": "Plenty-thora nahi – zyada hi zyada"
+  },
+  {
+    "word": "Precarious",
+    "meaning": "Not safe or secure",
+    "synonyms": ["Unstable", "Risky", "Dangerous"],
+    "trick": "Pair-careless rakha to gir jaoge"
+  },
+  {
+    "word": "Prolific",
+    "meaning": "Producing in large quantities",
+    "synonyms": ["Productive", "Fruitful", "Creative"],
+    "trick": "Pro-lifey creator – zyada zyada produce kare"
+  },
+  {
+    "word": "Pragmatic",
+    "meaning": "Dealing with things sensibly",
+    "synonyms": ["Practical", "Realistic", "Logical"],
+    "trick": "Practical + automatic = pragmatic"
+  },
+  {
+    "word": "Prodigy",
+    "meaning": "A young person with exceptional talent",
+    "synonyms": ["Genius", "Wonder kid", "Savant"],
+    "trick": "Padhai ka god – prodigy"
+  },
+  {
+    "word": "Ponder",
+    "meaning": "To think deeply",
+    "synonyms": ["Contemplate", "Consider", "Reflect"],
+    "trick": "Paani mein baith ke socha – ponder"
+  },
+  {
+    "word": "Perpetual",
+    "meaning": "Never ending or changing",
+    "synonyms": ["Continuous", "Everlasting", "Constant"],
+    "trick": "Perpetual calendar – hamesha ka"
+  },
+  {
+    "word": "Pernicious",
+    "meaning": "Very harmful",
+    "synonyms": ["Deadly", "Toxic", "Destructive"],
+    "trick": "Poisonous + vicious = pernicious"
+  },
+  {
+    "word": "Pervasive",
+    "meaning": "Spreading widely",
+    "synonyms": ["Widespread", "Common", "Omnipresent"],
+    "trick": "Perfume pervasive ho gaya – har jagah phail gaya"
+  },
+  {
+    "word": "Plausible",
+    "meaning": "Seemingly reasonable or probable",
+    "synonyms": ["Believable", "Credible", "Likely"],
+    "trick": "Plot plausible lag raha hai – sach ho sakta hai"
+  },
+  {
+    "word": "Profound",
+    "meaning": "Very deep or serious",
+    "synonyms": ["Deep", "Meaningful", "Intense"],
+    "trick": "Pro sound knowledge – bahut gahra"
+  },
+  {
+    "word": "Provoke",
+    "meaning": "To incite or stimulate",
+    "synonyms": ["Irritate", "Agitate", "Anger"],
+    "trick": "Provoking mat karo – gussa aa jayega"
+  },
+  {
+    "word": "Prejudice",
+    "meaning": "Preconceived opinion not based on reason",
+    "synonyms": ["Bias", "Partiality", "Discrimination"],
+    "trick": "Judge karna pehle hi – prejudice"
+  },
+  {
+    "word": "Procrastinate",
+    "meaning": "Delay or postpone",
+    "synonyms": ["Delay", "Postpone", "Dawdle"],
+    "trick": "Kal karenge – procrastinate karna"
+  },
+  {
+    "word": "Pristine",
+    "meaning": "In its original condition; unspoiled",
+    "synonyms": ["Pure", "Clean", "Untouched"],
+    "trick": "Pristine white shirt – bilkul saaf"
+  },
+  {
+    "word": "Perceive",
+    "meaning": "Become aware of",
+    "synonyms": ["Notice", "Detect", "Observe"],
+    "trick": "Perceive karna matlab dekhna samajhna"
+  },
+  {
+    "word": "Patronize",
+    "meaning": "Support or talk down to",
+    "synonyms": ["Sponsor", "Support", "Humiliate (neg.)"],
+    "trick": "Patron bana, lekin attitude ke saath"
+  },
+  {
+    "word": "Paralyze",
+    "meaning": "Cause to be unable to move",
+    "synonyms": ["Disable", "Cripple", "Immobilize"],
+    "trick": "Paralyzed hone ka matlab hil nahi sakta"
+  },
+  {
+    "word": "Pittance",
+    "meaning": "A very small amount of money",
+    "synonyms": ["Trifle", "Peanuts", "Modicum"],
+    "trick": "Salary itni kam ki pity aaye – pittance"
+  },
+  {
+    "word": "Persevere",
+    "meaning": "Continue despite difficulties",
+    "synonyms": ["Persist", "Endure", "Keep going"],
+    "trick": "Pyar mein persevere karna padta hai – fight till end"
+  },
+  {
+    "word": "Plummet",
+    "meaning": "Fall suddenly and steeply",
+    "synonyms": ["Drop", "Tumble", "Crash"],
+    "trick": "Price plummet – neeche gir gaya"
+  },
+  {
+    "word": "Paltry",
+    "meaning": "Small and worthless",
+    "synonyms": ["Trivial", "Measly", "Insignificant"],
+    "trick": "Paltry amount mila – kuch khaas nahi"
+  },
+  {
+    "word": "Profane",
+    "meaning": "Disrespectful toward sacred things",
+    "synonyms": ["Irreverent", "Blasphemous", "Impious"],
+    "trick": "Profane language – gaali galoch"
+  }
+  ,{
+    "word": "Quack",
+    "meaning": "A fake doctor or pretender to medical skills",
+    "synonyms": ["Charlatan", "Impostor", "Fraud"],
+    "trick": "Quack doctor sirf thenga dikhata hai"
+  },
+  {
+    "word": "Quagmire",
+    "meaning": "A difficult, complicated, or unpleasant situation",
+    "synonyms": ["Predicament", "Dilemma", "Mess"],
+    "trick": "Kaam mein fasa to laga quagmire mein phas gaya"
+  },
+  {
+    "word": "Quaint",
+    "meaning": "Attractively unusual or old-fashioned",
+    "synonyms": ["Charming", "Picturesque", "Curious"],
+    "trick": "Village ki quaint beauty – simple but attractive"
+  },
+  {
+    "word": "Quell",
+    "meaning": "To suppress or put an end to",
+    "synonyms": ["Suppress", "Crush", "Extinguish"],
+    "trick": "Police ne quickly quell kiya riot ko"
+  },
+  {
+    "word": "Querulous",
+    "meaning": "Complaining in a whining manner",
+    "synonyms": ["Complaining", "Irritable", "Petulant"],
+    "trick": "Query karta rehta hai – querulous banda"
+  },
+  {
+    "word": "Quibble",
+    "meaning": "To argue about minor matters",
+    "synonyms": ["Nitpick", "Split hairs", "Complain"],
+    "trick": "Chhoti chhoti baat pe quibble mat kar"
+  },
+  {
+    "word": "Quintessential",
+    "meaning": "Representing the most perfect example of a quality",
+    "synonyms": ["Typical", "Ideal", "Ultimate"],
+    "trick": "MS Dhoni is the quintessential captain"
+  },
+  {
+    "word": "Quotidian",
+    "meaning": "Happening every day; ordinary",
+    "synonyms": ["Daily", "Routine", "Commonplace"],
+    "trick": "Quote of the day – quotidian habit"
+  },
+  {
+    "word": "Quota",
+    "meaning": "A fixed share or portion",
+    "synonyms": ["Share", "Allotment", "Portion"],
+    "trick": "Reservation quota sabko milta hai"
+  },
+  {
+    "word": "Quarantine",
+    "meaning": "Isolation to prevent spread of disease",
+    "synonyms": ["Isolation", "Seclusion", "Detention"],
+    "trick": "Corona mein sabko quarantine mein rakha"
+  },
+  {
+    "word": "Quiescent",
+    "meaning": "In a state of inactivity or dormancy",
+    "synonyms": ["Inactive", "Dormant", "Idle"],
+    "trick": "Quiet + Scent = quiescent – bilkul shaant"
+  },
+  {
+    "word": "Quirk",
+    "meaning": "A peculiar aspect of a person's character",
+    "synonyms": ["Peculiarity", "Idiosyncrasy", "Twist"],
+    "trick": "Har kisi ke paas ek funny quirk hota hai"
+  },
+  {
+    "word": "Quip",
+    "meaning": "A witty or clever remark",
+    "synonyms": ["Joke", "Witticism", "Pun"],
+    "trick": "Quick tip + joke = quip"
+  },
+  {
+    "word": "Quixotic",
+    "meaning": "Unrealistic and impractical",
+    "synonyms": ["Idealistic", "Impractical", "Visionary"],
+    "trick": "Quick exotic sapne – quixotic plans"
+  },
+  {
+    "word": "Quench",
+    "meaning": "To satisfy thirst or desire",
+    "synonyms": ["Satisfy", "Extinguish", "Relieve"],
+    "trick": "Thanda pani ne pyas quench kar di"
+  },
+  {
+    "word": "Quintet",
+    "meaning": "A group of five people",
+    "synonyms": ["Fivesome", "Group of five", "Ensemble"],
+    "trick": "Panch log – quintet performance"
+  },
+  {
+    "word": "Quotable",
+    "meaning": "Worth quoting",
+    "synonyms": ["Memorable", "Repeatable", "Noteworthy"],
+    "trick": "Ye dialogue toh quotable hai bhai!"
+  },
+  {
+    "word": "Quota",
+    "meaning": "A limited quantity allowed",
+    "synonyms": ["Limit", "Allocation", "Share"],
+    "trick": "Quota full ho gaya – aur admission nahi"
+  },
+  {
+    "word": "Quadrant",
+    "meaning": "One-fourth of a circle",
+    "synonyms": ["Quarter", "Sector", "Segment"],
+    "trick": "Circle ka 1/4 part = quadrant"
+  },
+  {
+    "word": "Quadruple",
+    "meaning": "To multiply by four",
+    "synonyms": ["Increase fourfold", "Multiply", "Expand"],
+    "trick": "Quad = 4, quadruple means 4 times badhna"
+  },
+  {
+    "word": "Quirkiness",
+    "meaning": "Unusual or peculiar behavior",
+    "synonyms": ["Eccentricity", "Peculiarity", "Oddness"],
+    "trick": "Woh ladka toh quirkiness ka dukan hai"
+  },
+  {
+    "word": "Quenchless",
+    "meaning": "Impossible to satisfy or extinguish",
+    "synonyms": ["Insatiable", "Uncontrollable", "Inextinguishable"],
+    "trick": "Iski bhook quenchless hai – kabhi nahi bharta"
+  },
+  {
+    "word": "Quadruped",
+    "meaning": "An animal with four feet",
+    "synonyms": ["Four-footed", "Beast", "Animal"],
+    "trick": "Quad = 4, ped = pair – quadruped"
+  },
+  {
+    "word": "Quintuplet",
+    "meaning": "One of five children born at the same time",
+    "synonyms": ["Set of five", "Five siblings", "Multiplets"],
+    "trick": "Ek maa ke paanch bacche – quintuplets"
+  },
+  {
+    "word": "Quarrel",
+    "meaning": "An angry dispute",
+    "synonyms": ["Argument", "Fight", "Disagreement"],
+    "trick": "Chhoti baat pe bhi quarrel ho jata hai"
+  },
+  {
+    "word": "Quaking",
+    "meaning": "Shaking or trembling",
+    "synonyms": ["Shivering", "Trembling", "Shuddering"],
+    "trick": "Dar ke maare quaking ho gaya"
+  },
+  {
+    "word": "Quotient",
+    "meaning": "The result of division",
+    "synonyms": ["Result", "Output", "Answer"],
+    "trick": "Maths mein divide karo – milta hai quotient"
+  },
+  {
+    "word": "Quick-witted",
+    "meaning": "Mentally alert and sharp",
+    "synonyms": ["Sharp", "Smart", "Clever"],
+    "trick": "Jo quick soche – quick-witted kehte hain"
+  },
+  {
+    "word": "Quotational",
+    "meaning": "Related to quotes",
+    "synonyms": ["Citable", "Referenceable", "Quoting"],
+    "trick": "Quote se related – quotational content"
+  },
+  {
+    "word": "Quiver",
+    "meaning": "Tremble or shake",
+    "synonyms": ["Shiver", "Tremble", "Wobble"],
+    "trick": "Dar ke maare haath quiver karne lage"
+  }
+  ,
+  {
+    "word": "Rabid",
+    "meaning": "Extremely violent or fanatical",
+    "synonyms": ["Fanatical", "Extreme", "Furious"],
+    "trick": "Rabid kutta jaisa behavior – bilkul pagal fan!"
+  },
+  {
+    "word": "Raconteur",
+    "meaning": "A person who tells stories in an amusing way",
+    "synonyms": ["Storyteller", "Narrator"],
+    "trick": "Rakhon teri kahaniyaan! – Raconteur is kahani sunane wala"
+  },
+  {
+    "word": "Rampant",
+    "meaning": "Spreading uncontrollably",
+    "synonyms": ["Uncontrolled", "Unrestrained", "Widespread"],
+    "trick": "Ramp par fashion rampant ho gaya"
+  },
+  {
+    "word": "Rancor",
+    "meaning": "Bitter resentment or ill-will",
+    "synonyms": ["Bitterness", "Grudge", "Hatred"],
+    "trick": "Ran chor gaya but rancor reh gaya – dil mein jalan"
+  },
+  {
+    "word": "Ransack",
+    "meaning": "To search thoroughly and messily",
+    "synonyms": ["Loot", "Search", "Plunder"],
+    "trick": "Rani ka sack ransack karke sab le gaye"
+  },
+  {
+    "word": "Rapport",
+    "meaning": "A close and harmonious relationship",
+    "synonyms": ["Bond", "Connection", "Understanding"],
+    "trick": "Report acha hai kyunki boss ke saath rapport hai"
+  },
+  {
+    "word": "Rarefy",
+    "meaning": "To make less dense or more refined",
+    "synonyms": ["Thin", "Purify", "Distill"],
+    "trick": "Rare kar diya hawa ko – rarefy matlab halka banana"
+  },
+  {
+    "word": "Ratify",
+    "meaning": "To formally approve",
+    "synonyms": ["Approve", "Confirm", "Sanction"],
+    "trick": "Ration ki file ko PM ne ratify kiya"
+  },
+  {
+    "word": "Ravage",
+    "meaning": "To destroy violently",
+    "synonyms": ["Destroy", "Devastate", "Ruin"],
+    "trick": "Ravi ka gaon ravage ho gaya cyclone se"
+  },
+  {
+    "word": "Ravish",
+    "meaning": "To fill with intense delight; also to rape",
+    "synonyms": ["Enchant", "Captivate", "Rape (archaic)"],
+    "trick": "Ravishing beauty ne sabka dil chura liya"
+  },
+  {
+    "word": "Rebuke",
+    "meaning": "To criticize sharply",
+    "synonyms": ["Scold", "Reprimand", "Censure"],
+    "trick": "Reebok shoes le aaya, maa ne rebuke kiya paisa waste par"
+  },
+  {
+    "word": "Recant",
+    "meaning": "To take back a statement or belief",
+    "synonyms": ["Withdraw", "Retract", "Renounce"],
+    "trick": "Re can't bole jab usne recant kiya jhooth"
+  },
+  {
+    "word": "Recluse",
+    "meaning": "A person who lives a solitary life",
+    "synonyms": ["Hermit", "Loner"],
+    "trick": "Re-close ho gaya insaan – sabse alag rehta hai"
+  },
+  {
+    "word": "Reconcile",
+    "meaning": "To restore friendly relations",
+    "synonyms": ["Settle", "Resolve", "Make peace"],
+    "trick": "Re consile matlab phir se consile – dosti kar lena"
+  },
+  {
+    "word": "Redundant",
+    "meaning": "Exceeding what is necessary",
+    "synonyms": ["Unnecessary", "Excess", "Superfluous"],
+    "trick": "Redundant employees ko hata diya gaya"
+  },
+  {
+    "word": "Refute",
+    "meaning": "To prove wrong",
+    "synonyms": ["Disprove", "Debunk", "Counter"],
+    "trick": "Refuse + truth = refute – sach jhooth sabit kar diya"
+  },
+  {
+    "word": "Reiterate",
+    "meaning": "To repeat for emphasis",
+    "synonyms": ["Repeat", "Restate"],
+    "trick": "Re-iterate = baar baar bolna"
+  },
+  {
+    "word": "Relinquish",
+    "meaning": "To give up or let go",
+    "synonyms": ["Abandon", "Renounce", "Surrender"],
+    "trick": "Rely nahi kiya uss cheez par, toh relinquish kar diya"
+  },
+  {
+    "word": "Remorse",
+    "meaning": "Deep regret for wrongdoing",
+    "synonyms": ["Guilt", "Regret", "Compunction"],
+    "trick": "Re-marry kar liya, ab remorse hai – regret ho raha"
+  },
+  {
+    "word": "Renege",
+    "meaning": "To go back on a promise or contract",
+    "synonyms": ["Break promise", "Back out"],
+    "trick": "Rani ne engagement tod diya – renege kar gayi"
+  },
+  {
+    "word": "Renounce",
+    "meaning": "To formally give up",
+    "synonyms": ["Abandon", "Reject", "Forsake"],
+    "trick": "Rishi ne sansar renounce kar diya"
+  },
+  {
+    "word": "Repercussion",
+    "meaning": "Unintended consequence of an action",
+    "synonyms": ["Aftereffect", "Consequence", "Outcome"],
+    "trick": "Repeat karne ka repercussion lag gaya – punishment"
+  },
+  {
+    "word": "Repress",
+    "meaning": "To hold back or subdue",
+    "synonyms": ["Suppress", "Restrain"],
+    "trick": "Re-press kar ke emotions dabaya"
+  },
+  {
+    "word": "Reprimand",
+    "meaning": "To scold or criticize",
+    "synonyms": ["Scold", "Blame", "Censure"],
+    "trick": "Repeat mat karna, warna reprimand milega"
+  },
+  {
+    "word": "Reproach",
+    "meaning": "To express disapproval or disappointment",
+    "synonyms": ["Blame", "Criticize", "Scold"],
+    "trick": "Re-approach mat karna, reproach mil gaya"
+  },
+  {
+    "word": "Repudiate",
+    "meaning": "To reject or disown",
+    "synonyms": ["Reject", "Deny", "Disown"],
+    "trick": "Reputation ko kharaab kar diya, isliye repudiate kar diya"
+  },
+  {
+    "word": "Rescind",
+    "meaning": "To cancel officially",
+    "synonyms": ["Cancel", "Withdraw", "Revoke"],
+    "trick": "Re-send nahi karna – rescind kar diya order"
+  },
+  {
+    "word": "Resilient",
+    "meaning": "Able to recover quickly",
+    "synonyms": ["Tough", "Flexible", "Strong"],
+    "trick": "Resi (resist) kar ke liya comeback – resilient ho gaya"
+  },
+  {
+    "word": "Resolute",
+    "meaning": "Determined and unwavering",
+    "synonyms": ["Determined", "Firm", "Steadfast"],
+    "trick": "Resolution lene wale log resolute hote hain"
+  },
+  {
+    "word": "Reticent",
+    "meaning": "Not revealing one's thoughts readily",
+    "synonyms": ["Reserved", "Quiet", "Shy"],
+    "trick": "Re-test mein reticent ho gaya – kuch nahi bola"
+  },
+  {
+    "word": "Sagacious",
+    "meaning": "Wise; showing good judgment",
+    "synonyms": ["Wise", "Prudent", "Sensible"],
+    "trick": "Sage log hote hain sagacious – matlab samajhdaar"
+  },
+  {
+    "word": "Salient",
+    "meaning": "Most noticeable or important",
+    "synonyms": ["Prominent", "Important", "Notable"],
+    "trick": "Sale-in mein salient features highlight hote hain"
+  },
+  {
+    "word": "Sanguine",
+    "meaning": "Optimistic or positive",
+    "synonyms": ["Hopeful", "Positive", "Cheerful"],
+    "trick": "Sanju always guine (going) with hope – sanguine"
+  },
+  {
+    "word": "Scorn",
+    "meaning": "Contempt or disdain",
+    "synonyms": ["Contempt", "Mockery", "Ridicule"],
+    "trick": "Score na banane pe scorn milta hai – log mazaak udate hain"
+  },
+  {
+    "word": "Scrutinize",
+    "meaning": "Examine closely and carefully",
+    "synonyms": ["Inspect", "Examine", "Analyze"],
+    "trick": "Screw tighten karte waqt scrutinize karna padta hai"
+  },
+  {
+    "word": "Stagnant",
+    "meaning": "Not moving or changing",
+    "synonyms": ["Still", "Inactive", "Motionless"],
+    "trick": "Stag (deer) bhi na hile to stagnant lagta hai"
+  },
+  {
+    "word": "Superfluous",
+    "meaning": "Unnecessary; more than enough",
+    "synonyms": ["Excessive", "Redundant", "Extra"],
+    "trick": "Super+flow matlab zyada bekar ka – superfluous"
+  },
+  {
+    "word": "Subtle",
+    "meaning": "Delicate or not obvious",
+    "synonyms": ["Faint", "Indistinct", "Elusive"],
+    "trick": "Subtle hints dete hain jab direct bolna mushkil ho"
+  },
+  {
+    "word": "Substantiate",
+    "meaning": "Provide evidence or proof",
+    "synonyms": ["Prove", "Validate", "Confirm"],
+    "trick": "Substance ke through substantiate karo"
+  },
+  {
+    "word": "Suppress",
+    "meaning": "To stop by force; restrain",
+    "synonyms": ["Restrain", "Quell", "Stifle"],
+    "trick": "Suppress karna matlab dabana – jaise awaaz"
+  },
+  {
+    "word": "Skeptic",
+    "meaning": "A person who doubts or questions",
+    "synonyms": ["Doubter", "Disbeliever", "Questioner"],
+    "trick": "Skeptic log kisi pe bhi vishwas nahi karte"
+  },
+  {
+    "word": "Simultaneous",
+    "meaning": "Occurring at the same time",
+    "synonyms": ["Concurrent", "Synchronous", "Coexisting"],
+    "trick": "Same time = Simultaneous"
+  },
+  {
+    "word": "Staunch",
+    "meaning": "Firm and steadfast",
+    "synonyms": ["Loyal", "Dedicated", "Reliable"],
+    "trick": "Staunch supporter kabhi peeche nahi hatte"
+  },
+  {
+    "word": "Solace",
+    "meaning": "Comfort in sorrow",
+    "synonyms": ["Comfort", "Relief", "Consolation"],
+    "trick": "Solo+lace wali chappal pehne toh bhi solace milta hai dukh mein"
+  },
+  {
+    "word": "Slander",
+    "meaning": "False spoken statement damaging someone's reputation",
+    "synonyms": ["Defame", "Libel", "Smear"],
+    "trick": "Slander matlab kisi ka image slide kar dena – badnaam karna"
+  },
+  {
+    "word": "Surreptitious",
+    "meaning": "Secret and stealthy",
+    "synonyms": ["Secret", "Furtive", "Sneaky"],
+    "trick": "Surprise gift dena = surreptitious planning"
+  },
+  {
+    "word": "Saturate",
+    "meaning": "To soak completely",
+    "synonyms": ["Soak", "Drench", "Flood"],
+    "trick": "Saturday ko baarish ne saturate kar diya kapde"
+  },
+  {
+    "word": "Scapegoat",
+    "meaning": "A person who is blamed for the faults of others",
+    "synonyms": ["Fall guy", "Victim", "Patsy"],
+    "trick": "Scape ka goat ban gaya – sab kuch usi pe daal diya"
+  },
+  {
+    "word": "Sporadic",
+    "meaning": "Happening irregularly",
+    "synonyms": ["Irregular", "Occasional", "Scattered"],
+    "trick": "Sporadic study se selection nahi hota"
+  },
+  {
+    "word": "Sustain",
+    "meaning": "To keep up or support",
+    "synonyms": ["Maintain", "Continue", "Support"],
+    "trick": "Sustained efforts se success milti hai"
+  },
+  {
+    "word": "Sever",
+    "meaning": "To cut off or separate",
+    "synonyms": ["Cut", "Detach", "Separate"],
+    "trick": "Sever matlab sword se cut karna"
+  },
+  {
+    "word": "Shrewd",
+    "meaning": "Clever and sharp in practical matters",
+    "synonyms": ["Astute", "Cunning", "Smart"],
+    "trick": "Shrewd log har jagah apna fayda dekhte hain"
+  },
+  {
+    "word": "Smother",
+    "meaning": "To suffocate or cover completely",
+    "synonyms": ["Choke", "Stifle", "Suppress"],
+    "trick": "Mother ki god mein smother ho jaate ho"
+  },
+  {
+    "word": "Subdue",
+    "meaning": "To bring under control",
+    "synonyms": ["Conquer", "Overcome", "Suppress"],
+    "trick": "Sub due ho gaya – control mein aagaya"
+  },
+  {
+    "word": "Scurry",
+    "meaning": "To move quickly with short steps",
+    "synonyms": ["Dash", "Rush", "Hurry"],
+    "trick": "Scurry matlab jaldi jaldi bhagna – mouse jaisa"
+  },
+  {
+    "word": "Suffice",
+    "meaning": "Be enough or adequate",
+    "synonyms": ["Satisfy", "Do", "Serve"],
+    "trick": "So face this will suffice for now"
+  },
+  {
+    "word": "Sanction",
+    "meaning": "Official approval or penalty",
+    "synonyms": ["Approval", "Authorization", "Punishment"],
+    "trick": "Government sanction mil gaya – kaam start karo"
+  },
+  {
+    "word": "Scintillating",
+    "meaning": "Brilliant and lively",
+    "synonyms": ["Sparkling", "Shining", "Exciting"],
+    "trick": "Scene til til scintillating tha – dil khush ho gaya"
+  },
+  {
+    "word": "Stifle",
+    "meaning": "To suppress or hold back",
+    "synonyms": ["Smother", "Suppress", "Restrain"],
+    "trick": "Stiff ban ke feelings ko stifle kar diya"
+  },
+  {
+    "word": "Skeptical",
+    "meaning": "Not easily convinced",
+    "synonyms": ["Doubtful", "Disbelieving", "Suspicious"],
+    "trick": "Skeptic ka bhai skeptical – dono doubt hi karte hain"
+  },
+  {
+    "word": "Tacit",
+    "meaning": "Understood without being stated",
+    "synonyms": ["Implied", "Unspoken", "Indirect"],
+    "trick": "Taxi waale ne bina kuch kahe chalu kar diya – tacit samajh gaya"
+  },
+  {
+    "word": "Tangible",
+    "meaning": "Perceptible by touch; real",
+    "synonyms": ["Palpable", "Concrete", "Physical"],
+    "trick": "Tandoor ki roti tangible hoti hai – haath se mehsoos hoti hai"
+  },
+  {
+    "word": "Tantamount",
+    "meaning": "Equivalent in seriousness",
+    "synonyms": ["Equivalent", "Equal", "Identical"],
+    "trick": "Tantamount matlab same amount – barabar ka"
+  },
+  {
+    "word": "Tarry",
+    "meaning": "To delay or be slow",
+    "synonyms": ["Delay", "Linger", "Procrastinate"],
+    "trick": "Tariq har kaam mein tarry karta hai – hamesha late"
+  },
+  {
+    "word": "Tenacious",
+    "meaning": "Persistent; determined",
+    "synonyms": ["Persistent", "Determined", "Stubborn"],
+    "trick": "Tennis player tenacious hota hai – haar nahi maanta"
+  },
+  {
+    "word": "Tepid",
+    "meaning": "Lukewarm; unenthusiastic",
+    "synonyms": ["Lukewarm", "Mild", "Unenthusiastic"],
+    "trick": "Tea pid gaya – lekin tepid tha, na thanda na garam"
+  },
+  {
+    "word": "Terse",
+    "meaning": "Brief and to the point",
+    "synonyms": ["Concise", "Curt", "Short"],
+    "trick": "Terse reply diya – 2 word mein hi baat khatam"
+  },
+  {
+    "word": "Transitory",
+    "meaning": "Not permanent",
+    "synonyms": ["Temporary", "Fleeting", "Short-lived"],
+    "trick": "Transit mein time transitory hota hai – kuch der ka"
+  },
+  {
+    "word": "Tranquil",
+    "meaning": "Calm, peaceful",
+    "synonyms": ["Peaceful", "Serene", "Quiet"],
+    "trick": "Train ke bahar ka scene tranquil tha – shanti hi shanti"
+  },
+  {
+    "word": "Trivial",
+    "meaning": "Unimportant",
+    "synonyms": ["Insignificant", "Minor", "Petty"],
+    "trick": "Trivia questions trivial hote hain – zyada important nahi"
+  },
+  {
+    "word": "Torrid",
+    "meaning": "Very hot or passionate",
+    "synonyms": ["Scorching", "Intense", "Burning"],
+    "trick": "Tandoor mein rakh ke torrid bana diya"
+  },
+  {
+    "word": "Turmoil",
+    "meaning": "A state of great disturbance",
+    "synonyms": ["Chaos", "Confusion", "Disorder"],
+    "trick": "Toilet ka pani chala gaya – sab turmoil mein aa gaye"
+  },
+  {
+    "word": "Taint",
+    "meaning": "To contaminate or pollute",
+    "synonyms": ["Spoil", "Pollute", "Corrupt"],
+    "trick": "Paint mein chemical mil gaya – taint ho gaya"
+  },
+  {
+    "word": "Truncate",
+    "meaning": "To shorten",
+    "synonyms": ["Shorten", "Trim", "Cut"],
+    "trick": "Tree ka trunk truncate kar diya – kaat diya"
+  },
+  {
+    "word": "Thwart",
+    "meaning": "To prevent someone from doing something",
+    "synonyms": ["Foil", "Prevent", "Obstruct"],
+    "trick": "Thar ke aage police ne thwart kar diya – aage nahi jaane diya"
+  },
+  {
+    "word": "Trepidation",
+    "meaning": "Fear or anxiety",
+    "synonyms": ["Fear", "Dread", "Apprehension"],
+    "trick": "Trip ke liye mummy ko bolne mein trepidation tha"
+  },
+  {
+    "word": "Tedious",
+    "meaning": "Too long, slow, or dull",
+    "synonyms": ["Boring", "Dull", "Monotonous"],
+    "trick": "TV repair ka kaam tedious hota hai – boring aur lamba"
+  },
+  {
+    "word": "Tactful",
+    "meaning": "Showing skill in dealing with people",
+    "synonyms": ["Diplomatic", "Considerate", "Polite"],
+    "trick": "Tactful teacher ne daanta bhi pyar se"
+  },
+  {
+    "word": "Tyranny",
+    "meaning": "Cruel and oppressive rule",
+    "synonyms": ["Dictatorship", "Oppression", "Autocracy"],
+    "trick": "Tyre ke neeche dabake rule karna – tyranny"
+  },
+  {
+    "word": "Tether",
+    "meaning": "To tie with a rope",
+    "synonyms": ["Tie", "Bind", "Fasten"],
+    "trick": "Cow ko tree se tether kiya gaya – rassi se baandha"
+  },
+  {
+    "word": "Temperate",
+    "meaning": "Mild or moderate",
+    "synonyms": ["Mild", "Moderate", "Calm"],
+    "trick": "Temperature temperate tha – na zyada garam na thanda"
+  },
+  {
+    "word": "Transcend",
+    "meaning": "To go beyond limits",
+    "synonyms": ["Surpass", "Exceed", "Overcome"],
+    "trick": "Transcend matlab 10/10 se upar chale jao"
+  },
+  {
+    "word": "Tutelage",
+    "meaning": "Protection or instruction",
+    "synonyms": ["Guidance", "Instruction", "Teaching"],
+    "trick": "Tu tuition le raha hai tutelage mein"
+  },
+  {
+    "word": "Tome",
+    "meaning": "A large, scholarly book",
+    "synonyms": ["Volume", "Book", "Publication"],
+    "trick": "Tome book uthaya – weight training ho gaya"
+  },
+  {
+    "word": "Temerity",
+    "meaning": "Excessive confidence or boldness",
+    "synonyms": ["Audacity", "Boldness", "Recklessness"],
+    "trick": "Tez meri tea gir gayi – fir bhi bola kuch nahi hoga – temerity"
+  },
+  {
+    "word": "Thespian",
+    "meaning": "An actor or actress",
+    "synonyms": ["Performer", "Artist", "Player"],
+    "trick": "Theatre ka thespian award gaya Ranveer ko"
+  },
+  {
+    "word": "Tactile",
+    "meaning": "Related to the sense of touch",
+    "synonyms": ["Touchable", "Tangible", "Palpable"],
+    "trick": "Touch kar ke tile tactile hai ya nahi check karo"
+  },
+  {
+    "word": "Transmute",
+    "meaning": "To change in form or nature",
+    "synonyms": ["Transform", "Convert", "Alter"],
+    "trick": "Transport mein cement transmute ho gaya – form badal gaya"
+  },
+  {
+    "word": "Tome",
+    "meaning": "A large scholarly book",
+    "synonyms": ["Volume", "Encyclopedia", "Book"],
+    "trick": "Tome uthaya – lagta hai IAS ki tayari chal rahi hai"
+  },
+  {
+    "word": "Torrential",
+    "meaning": "Very heavy (usually rain)",
+    "synonyms": ["Heavy", "Pouring", "Violent"],
+    "trick": "Torrential rain mein sab bheeg gaye – barsaat ka toofan"
+  },
+  {
+    "word": "Ubiquitous",
+    "meaning": "Present everywhere",
+    "synonyms": ["Omnipresent", "Pervasive", "Universal"],
+    "trick": "Uber drivers are ubiquitous – har jagah mil jaate hain!"
+  },
+  {
+    "word": "Ulterior",
+    "meaning": "Hidden or secret (motive)",
+    "synonyms": ["Hidden", "Secret", "Underlying"],
+    "trick": "Ulta motive – matlab ulterior motive"
+  },
+  {
+    "word": "Unanimous",
+    "meaning": "Fully in agreement",
+    "synonyms": ["Agreed", "Consistent", "Harmonious"],
+    "trick": "UN mein sab ne ek mat se decide kiya – unanimous"
+  },
+  {
+    "word": "Uncanny",
+    "meaning": "Strange or mysterious",
+    "synonyms": ["Eerie", "Weird", "Spooky"],
+    "trick": "Achanak uncle ki uncanny story ne dara diya"
+  },
+  {
+    "word": "Unprecedented",
+    "meaning": "Never done before",
+    "synonyms": ["Novel", "Unique", "Exceptional"],
+    "trick": "Un + precedent (example) = koi misaal nahi"
+  },
+  {
+    "word": "Unravel",
+    "meaning": "Solve, untangle",
+    "synonyms": ["Decipher", "Resolve", "Unfold"],
+    "trick": "Mystery unravel ho gaya jaise sweater ka dhaaga"
+  },
+  {
+    "word": "Uphold",
+    "meaning": "Support or maintain",
+    "synonyms": ["Support", "Sustain", "Defend"],
+    "trick": "Judge ne law ko uphold kiya"
+  },
+  {
+    "word": "Urbane",
+    "meaning": "Sophisticated and polite",
+    "synonyms": ["Suave", "Cultured", "Elegant"],
+    "trick": "Urban banda hai toh urbane bhi hoga"
+  },
+  {
+    "word": "Usurp",
+    "meaning": "Take position by force",
+    "synonyms": ["Seize", "Takeover", "Appropriate"],
+    "trick": "Use kar ke chheen liya – usurp"
+  },
+  {
+    "word": "Utmost",
+    "meaning": "Greatest or highest degree",
+    "synonyms": ["Maximum", "Supreme", "Extreme"],
+    "trick": "Utmost importance = sabse zyada zaruri"
+  },
+  {
+    "word": "Undermine",
+    "meaning": "Weaken gradually",
+    "synonyms": ["Erode", "Sabotage", "Diminish"],
+    "trick": "Niche se mine kar ke kamzor kar diya – undermine"
+  },
+  {
+    "word": "Unruly",
+    "meaning": "Disorderly and disruptive",
+    "synonyms": ["Disobedient", "Rowdy", "Wild"],
+    "trick": "Rules ko follow na kare – unruly"
+  },
+  {
+    "word": "Unscathed",
+    "meaning": "Without injury or damage",
+    "synonyms": ["Unharmed", "Safe", "Intact"],
+    "trick": "Scathe matlab nuksan, unscathed matlab bina nuksan"
+  },
+  {
+    "word": "Unyielding",
+    "meaning": "Stubborn or inflexible",
+    "synonyms": ["Adamant", "Tough", "Firm"],
+    "trick": "Yield nahi karta – unyielding"
+  },
+  {
+    "word": "Undaunted",
+    "meaning": "Not discouraged",
+    "synonyms": ["Fearless", "Brave", "Bold"],
+    "trick": "Daant se bhi nahi dara – undaunted"
+  },
+  {
+    "word": "Unfathomable",
+    "meaning": "Incapable of being understood",
+    "synonyms": ["Incomprehensible", "Deep", "Mysterious"],
+    "trick": "Fathom = samajhna, unfathomable = jo samajh na aaye"
+  },
+  {
+    "word": "Unkempt",
+    "meaning": "Messy or untidy",
+    "synonyms": ["Disheveled", "Scruffy", "Shabby"],
+    "trick": "Un combed hair = unkempt"
+  },
+  {
+    "word": "Unwitting",
+    "meaning": "Unintentional, unaware",
+    "synonyms": ["Inadvertent", "Unconscious", "Unaware"],
+    "trick": "Wit nahi tha – unwitting mistake"
+  },
+  {
+    "word": "Unanimity",
+    "meaning": "Complete agreement",
+    "synonyms": ["Consensus", "Harmony", "Concurrence"],
+    "trick": "Unanimous ka noun – sab ek mat"
+  },
+  {
+    "word": "Unleash",
+    "meaning": "Release forcefully",
+    "synonyms": ["Release", "Let loose", "Set free"],
+    "trick": "Leash hata ke unleash kar diya"
+  },
+  {
+    "word": "Unveil",
+    "meaning": "Reveal something hidden",
+    "synonyms": ["Disclose", "Expose", "Reveal"],
+    "trick": "Veil hata diya = unveil"
+  },
+  {
+    "word": "Upsurge",
+    "meaning": "Sudden increase",
+    "synonyms": ["Rise", "Growth", "Increase"],
+    "trick": "Sudden upar surge – upsurge"
+  },
+  {
+    "word": "Utopia",
+    "meaning": "An imagined perfect world",
+    "synonyms": ["Paradise", "Heaven", "Ideal place"],
+    "trick": "Yeh toh utopia hai – sab perfect!"
+  },
+  {
+    "word": "Uptight",
+    "meaning": "Tense or anxious",
+    "synonyms": ["Nervous", "Tense", "Anxious"],
+    "trick": "Tight ho gaya stress se – uptight"
+  },
+  {
+    "word": "Ulcerate",
+    "meaning": "Form ulcers or sores",
+    "synonyms": ["Erode", "Infect", "Fester"],
+    "trick": "Ulcer ban gaya – ulcerate"
+  },
+  {
+    "word": "Uncouth",
+    "meaning": "Lacking good manners",
+    "synonyms": ["Rude", "Unrefined", "Ill-mannered"],
+    "trick": "Couth = good manners, uncouth = bad manners"
+  },
+  {
+    "word": "Unabated",
+    "meaning": "Without any reduction in intensity",
+    "synonyms": ["Persistent", "Relentless", "Continuous"],
+    "trick": "Abate = kam hona, unabated = bina kam hue"
+  },
+  {
+    "word": "Unfurl",
+    "meaning": "Spread out or open",
+    "synonyms": ["Unroll", "Expand", "Deploy"],
+    "trick": "Furl = band karna, unfurl = kholna"
+  },
+  {
+    "word": "Unnerving",
+    "meaning": "Causing anxiety or fear",
+    "synonyms": ["Upsetting", "Disturbing", "Frightening"],
+    "trick": "Nerves hil gaye – unnerving"
+  },
+  {
+    "word": "Utilitarian",
+    "meaning": "Practical rather than attractive",
+    "synonyms": ["Functional", "Pragmatic", "Useful"],
+    "trick": "Utility pe focus – utilitarian"
+  },
+  {
+    "word": "Vacillate",
+    "meaning": "To waver between different opinions",
+    "synonyms": ["Waver", "Hesitate", "Dither"],
+    "trick": "Vaise hi late karta hai decision lene mein"
+  },
+  {
+    "word": "Vague",
+    "meaning": "Unclear or uncertain",
+    "synonyms": ["Unclear", "Obscure", "Ambiguous"],
+    "trick": "Vague answer diya, kuch samajh nahi aaya"
+  },
+  {
+    "word": "Valiant",
+    "meaning": "Brave and courageous",
+    "synonyms": ["Brave", "Heroic", "Fearless"],
+    "trick": "Vali (Hanuman ji ka beta) was valiant"
+  },
+  {
+    "word": "Vanquish",
+    "meaning": "To defeat thoroughly",
+    "synonyms": ["Conquer", "Overcome", "Crush"],
+    "trick": "Van se aa ke shatru ko vanquish kiya"
+  },
+  {
+    "word": "Venerate",
+    "meaning": "To respect deeply",
+    "synonyms": ["Revere", "Respect", "Honor"],
+    "trick": "Very-neat people are venerated"
+  },
+  {
+    "word": "Veracity",
+    "meaning": "Truthfulness",
+    "synonyms": ["Truth", "Accuracy", "Honesty"],
+    "trick": "Very honest city = Veracity"
+  },
+  {
+    "word": "Verbose",
+    "meaning": "Using too many words",
+    "synonyms": ["Wordy", "Talkative", "Loquacious"],
+    "trick": "Ver (very) + bose (boss) = talks too much"
+  },
+  {
+    "word": "Versatile",
+    "meaning": "Capable of doing many things",
+    "synonyms": ["Flexible", "Adaptable", "Multitalented"],
+    "trick": "Variety style = versatile"
+  },
+  {
+    "word": "Vestige",
+    "meaning": "A trace or small part of something",
+    "synonyms": ["Remnant", "Relic", "Residue"],
+    "trick": "West tea cup ka vestige mil gaya"
+  },
+  {
+    "word": "Viable",
+    "meaning": "Capable of working successfully",
+    "synonyms": ["Feasible", "Practical", "Workable"],
+    "trick": "Via-able = possible to go via"
+  },
+  {
+    "word": "Vindicate",
+    "meaning": "To clear from blame",
+    "synonyms": ["Justify", "Defend", "Absolve"],
+    "trick": "Win the case = vindicate"
+  },
+  {
+    "word": "Virtuous",
+    "meaning": "Morally good",
+    "synonyms": ["Righteous", "Good", "Honest"],
+    "trick": "Virat Kohli ke jaise virtuous banna hai"
+  },
+  {
+    "word": "Vigilant",
+    "meaning": "Keeping careful watch",
+    "synonyms": ["Watchful", "Alert", "Attentive"],
+    "trick": "Village ke chowkidar always vigilant"
+  },
+  {
+    "word": "Vilify",
+    "meaning": "To speak ill of someone",
+    "synonyms": ["Defame", "Slander", "Disparage"],
+    "trick": "Villainify kar diya usko"
+  },
+  {
+    "word": "Vile",
+    "meaning": "Extremely unpleasant",
+    "synonyms": ["Nasty", "Wicked", "Horrible"],
+    "trick": "Vile = Wild behaviour"
+  },
+  {
+    "word": "Vivid",
+    "meaning": "Bright or clear",
+    "synonyms": ["Clear", "Graphic", "Lively"],
+    "trick": "Vivid color = zyada chamak daar"
+  },
+  {
+    "word": "Vex",
+    "meaning": "To annoy or irritate",
+    "synonyms": ["Irritate", "Annoy", "Bother"],
+    "trick": "Ex (X) always vexes me"
+  },
+  {
+    "word": "Vanity",
+    "meaning": "Excessive pride in oneself",
+    "synonyms": ["Ego", "Pride", "Conceit"],
+    "trick": "Van mein baith ke style marna = vanity"
+  },
+  {
+    "word": "Voracious",
+    "meaning": "Very hungry or greedy",
+    "synonyms": ["Greedy", "Insatiable", "Gluttonous"],
+    "trick": "Bohot zyada rice khane wala = voracious"
+  },
+  {
+    "word": "Vacuum",
+    "meaning": "Empty space",
+    "synonyms": ["Emptiness", "Void", "Gap"],
+    "trick": "Vacuum cleaner se sab khali ho gaya"
+  },
+  {
+    "word": "Vulnerable",
+    "meaning": "Easily harmed or hurt",
+    "synonyms": ["Weak", "Exposed", "Defenseless"],
+    "trick": "Wool nikal gaya to sheep became vulnerable"
+  },
+  {
+    "word": "Vendetta",
+    "meaning": "A prolonged bitter quarrel",
+    "synonyms": ["Feud", "Rivalry", "Revenge"],
+    "trick": "Film ka naam Vendetta = badla"
+  },
+  {
+    "word": "Vocation",
+    "meaning": "A person's job or calling",
+    "synonyms": ["Profession", "Occupation", "Calling"],
+    "trick": "Vocation = job location"
+  },
+  {
+    "word": "Vaccine",
+    "meaning": "Substance to provide immunity",
+    "synonyms": ["Immunization", "Inoculation"],
+    "trick": "Covid ka vaccine sabko pata hai"
+  },
+  {
+    "word": "Vibrate",
+    "meaning": "To move back and forth quickly",
+    "synonyms": ["Shake", "Tremble", "Oscillate"],
+    "trick": "Phone vibrate karta hai silent pe"
+  },
+  {
+    "word": "Vow",
+    "meaning": "A solemn promise",
+    "synonyms": ["Oath", "Pledge", "Promise"],
+    "trick": "Shaadi mein vow liya jata hai"
+  },
+  {
+    "word": "Valedictory",
+    "meaning": "Farewell speech",
+    "synonyms": ["Goodbye", "Farewell", "Parting words"],
+    "trick": "Valediction = bid farewell"
+  },
+  {
+    "word": "Vicious",
+    "meaning": "Deliberately cruel or violent",
+    "synonyms": ["Brutal", "Savage", "Wicked"],
+    "trick": "Vikram bhai vicious tha gusse mein"
+  },
+  {
+    "word": "Vent",
+    "meaning": "To express feelings",
+    "synonyms": ["Express", "Release", "Discharge"],
+    "trick": "Ventilate your anger = vent"
+  },
+  {
+    "word": "Vanguard",
+    "meaning": "Leading position in a movement",
+    "synonyms": ["Front", "Forefront", "Lead"],
+    "trick": "Van ke guard aage aake lead karta hai"
+  }
+  ,
+  {
+    "word": "Wane",
+    "meaning": "To decrease gradually",
+    "synonyms": ["Diminish", "Decline", "Fade"],
+    "trick": "Moon ka shine Wane ho raha hai – dheere dheere kam ho raha hai"
+  },
+  {
+    "word": "Wary",
+    "meaning": "Cautious or alert to danger",
+    "synonyms": ["Careful", "Watchful", "Alert"],
+    "trick": "Wary rehna war ke time – alert rehna"
+  },
+  {
+    "word": "Wheedle",
+    "meaning": "To persuade through flattery",
+    "synonyms": ["Cajole", "Coax", "Flatter"],
+    "trick": "Wheedle karke ladki se haan karwa liya – buttering kiya"
+  },
+  {
+    "word": "Whimsical",
+    "meaning": "Playfully fanciful; unpredictable",
+    "synonyms": ["Fanciful", "Capricious", "Quirky"],
+    "trick": "Whim suna tha? Whimsical matlab mood change hone wala"
+  },
+  {
+    "word": "Wretched",
+    "meaning": "Very bad or miserable",
+    "synonyms": ["Miserable", "Pitiful", "Pathetic"],
+    "trick": "Wretched condition matlab bekar halat"
+  },
+  {
+    "word": "Wield",
+    "meaning": "To handle effectively (a weapon or tool)",
+    "synonyms": ["Exert", "Use", "Control"],
+    "trick": "Sword wield karta hai warrior"
+  },
+  {
+    "word": "Wither",
+    "meaning": "To dry up or fade",
+    "synonyms": ["Shrivel", "Fade", "Decay"],
+    "trick": "Flowers wither ho gaye bina pani ke"
+  },
+  {
+    "word": "Woe",
+    "meaning": "Great sorrow or distress",
+    "synonyms": ["Grief", "Misery", "Suffering"],
+    "trick": "Woe suna nahi? Matlab dukh bhara"
+  },
+  {
+    "word": "Witty",
+    "meaning": "Cleverly humorous",
+    "synonyms": ["Clever", "Funny", "Quick-witted"],
+    "trick": "Kapil Sharma is witty – tez aur funny"
+  },
+  {
+    "word": "Wrath",
+    "meaning": "Extreme anger",
+    "synonyms": ["Rage", "Fury", "Indignation"],
+    "trick": "Wrath of God – bhagwan ka gussa"
+  },
+  {
+    "word": "Warrant",
+    "meaning": "Justify or give reason for",
+    "synonyms": ["Authorize", "Guarantee", "Justify"],
+    "trick": "Police ne warrant dikhake arrest kiya – reason diya"
+  },
+  {
+    "word": "Waver",
+    "meaning": "To hesitate or be indecisive",
+    "synonyms": ["Fluctuate", "Hesitate", "Vacillate"],
+    "trick": "Decision par waver mat karo – confuse mat ho"
+  },
+  {
+    "word": "Wistful",
+    "meaning": "Full of longing or regret",
+    "synonyms": ["Nostalgic", "Yearning", "Melancholy"],
+    "trick": "Wistful look diya – purani yaadon mein kho gaya"
+  },
+  {
+    "word": "Woo",
+    "meaning": "To try to gain someone's affection",
+    "synonyms": ["Court", "Chase", "Flatter"],
+    "trick": "Ladki ko woo karne gaya – impress karne gaya"
+  },
+  {
+    "word": "Whine",
+    "meaning": "To complain in an annoying way",
+    "synonyms": ["Complain", "Grumble", "Murmur"],
+    "trick": "Bacche whine karte hain har baat pe"
+  },
+  {
+    "word": "Wieldy",
+    "meaning": "Easy to handle or manage",
+    "synonyms": ["Manageable", "Handy", "Maneuverable"],
+    "trick": "Lightweight sword wieldy hota hai – asani se use hota hai"
+  },
+  {
+    "word": "Wangle",
+    "meaning": "To get by clever means",
+    "synonyms": ["Manipulate", "Obtain", "Scheme"],
+    "trick": "Chatur ne wangle karke answer milaya"
+  },
+  {
+    "word": "Wanton",
+    "meaning": "Deliberate and unprovoked (of a cruel action)",
+    "synonyms": ["Malicious", "Cruel", "Senseless"],
+    "trick": "Wanton violence matlab bina wajah ka gunda gardi"
+  },
+  {
+    "word": "Whisk",
+    "meaning": "To take away quickly",
+    "synonyms": ["Snatch", "Sweep", "Rush"],
+    "trick": "Usse whisk karke le gaya police"
+  },
+  {
+    "word": "Wane",
+    "meaning": "To gradually decrease or fade away",
+    "synonyms": ["Diminish", "Subside", "Decline"],
+    "trick": "Mera interest wane ho raha hai – kam ho raha hai"
+  },
+  {
+    "word": "Waddle",
+    "meaning": "To walk with short steps, swaying side to side",
+    "synonyms": ["Totter", "Stagger", "Shamble"],
+    "trick": "Penguin waddle karta hai"
+  },
+  {
+    "word": "Whet",
+    "meaning": "To sharpen or stimulate",
+    "synonyms": ["Sharpen", "Arouse", "Stimulate"],
+    "trick": "Spicy smell ne mera appetite whet kar diya"
+  },
+  {
+    "word": "Waive",
+    "meaning": "To give up voluntarily",
+    "synonyms": ["Relinquish", "Forgo", "Abandon"],
+    "trick": "Fees waive kar diya – maaf kar diya"
+  },
+  {
+    "word": "Wrangle",
+    "meaning": "To argue noisily",
+    "synonyms": ["Quarrel", "Dispute", "Bicker"],
+    "trick": "Do bhai wrangle kar rahe the zameen ke liye"
+  },
+  {
+    "word": "Wince",
+    "meaning": "To flinch or shrink back in pain",
+    "synonyms": ["Flinch", "Recoil", "Grimace"],
+    "trick": "Injection dekh ke wince kar gaya"
+  },
+  {
+    "word": "Wreak",
+    "meaning": "To inflict or cause (vengeance or punishment)",
+    "synonyms": ["Inflict", "Cause", "Unleash"],
+    "trick": "He vowed to wreak revenge"
+  },
+  {
+    "word": "Wallow",
+    "meaning": "To indulge in something excessively",
+    "synonyms": ["Indulge", "Bask", "Revel"],
+    "trick": "Wallowing in sorrow matlab dukh mein dooba rehna"
+  },
+  {
+    "word": "Wizen",
+    "meaning": "Shriveled or wrinkled with age",
+    "synonyms": ["Withered", "Shriveled", "Wrinkled"],
+    "trick": "Old man ka face wizen ho gaya"
+  },
+  {
+    "word": "Wielding",
+    "meaning": "Holding and using (power or weapon)",
+    "synonyms": ["Handling", "Exercising", "Controlling"],
+    "trick": "Leader wielding power wisely"
+  },
+  {
+    "word": "Wend",
+    "meaning": "To go in a specified direction",
+    "synonyms": ["Proceed", "Travel", "Journey"],
+    "trick": "They wended their way home after party"
+  }
+  ,{
+    "word": "Xenophobia",
+    "meaning": "Fear or hatred of foreigners",
+    "synonyms": ["Racism", "Prejudice", "Intolerance"],
+    "trick": "Xeno (foreigner) + phobia (dar) = foreigner se darna"
+  },
+  {
+    "word": "Xerophyte",
+    "meaning": "A plant adapted to dry climates",
+    "synonyms": ["Desert plant", "Drought-resistant plant"],
+    "trick": "Xero = dry, phyte = plant"
+  },
+  {
+    "word": "Xenophile",
+    "meaning": "A person attracted to foreign cultures",
+    "synonyms": ["Cosmopolitan", "Open-minded"],
+    "trick": "Xeno = foreign, phile = lover"
+  },
+  {
+    "word": "Xylography",
+    "meaning": "Art of engraving on wood",
+    "synonyms": ["Woodcut printing"],
+    "trick": "Xylo = wood, graphy = writing/drawing"
+  },
+  {
+    "word": "Xenogenesis",
+    "meaning": "Production of offspring different from parents",
+    "synonyms": ["Hybrid generation"],
+    "trick": "Xeno = strange, genesis = birth"
+  },
+  {
+    "word": "Xanthous",
+    "meaning": "Yellowish in color",
+    "synonyms": ["Golden", "Fair-haired"],
+    "trick": "Xanth = yellow (like xanthophyll pigment)"
+  },
+  {
+    "word": "Xenial",
+    "meaning": "Hospitable, friendly to guests",
+    "synonyms": ["Welcoming", "Cordial"],
+    "trick": "Xen = guest, Xenial = guest-friendly"
+  },
+  {
+    "word": "Xiphoid",
+    "meaning": "Sword-shaped (especially body part)",
+    "synonyms": ["Swordlike", "Tapered"],
+    "trick": "Xipho = sword (like xiphoid process in chest)"
+  },
+  {
+    "word": "Xenocracy",
+    "meaning": "Government by foreigners",
+    "synonyms": ["Colonial rule"],
+    "trick": "Xeno = foreign, cracy = rule"
+  },
+  {
+    "word": "Xenolith",
+    "meaning": "Rock fragment embedded in another",
+    "synonyms": ["Rock inclusion"],
+    "trick": "Xeno = foreign, lith = stone"
+  },
+  {
+    "word": "Xenodochial",
+    "meaning": "Friendly to strangers",
+    "synonyms": ["Hospitable", "Kind"],
+    "trick": "Xeno = stranger, dochial = friendly"
+  },
+  {
+    "word": "Xerosis",
+    "meaning": "Abnormal dryness (especially skin or eye)",
+    "synonyms": ["Dryness"],
+    "trick": "Xero = dry, sis = condition"
+  },
+  {
+    "word": "Xerox",
+    "meaning": "To make a copy",
+    "synonyms": ["Photocopy", "Duplicate"],
+    "trick": "Xerox machine se xerox nikalna"
+  },
+  {
+    "word": "Xenocentric",
+    "meaning": "Preference for foreign culture",
+    "synonyms": ["Alien-loving"],
+    "trick": "Xeno = foreign, centric = centered on"
+  },
+  {
+    "word": "Xylotomy",
+    "meaning": "Cutting of wood",
+    "synonyms": ["Wood dissection"],
+    "trick": "Xylo = wood, tomy = cut"
+  },
+  {
+    "word": "Xanadu",
+    "meaning": "Idyllic, luxurious place",
+    "synonyms": ["Paradise", "Utopia"],
+    "trick": "So peaceful and posh it feels like Xanadu"
+  },
+  {
+    "word": "Xiphosuran",
+    "meaning": "Ancient marine arthropod",
+    "synonyms": ["Horseshoe crab"],
+    "trick": "Scientific term, mostly zoological"
+  },
+  {
+    "word": "Xenotransplant",
+    "meaning": "Transplant from one species to another",
+    "synonyms": ["Cross-species transplant"],
+    "trick": "Xeno = foreign, transplant = graft"
+  },
+  {
+    "word": "Xenolithic",
+    "meaning": "Relating to foreign rock fragments",
+    "synonyms": ["Intrusive rock"],
+    "trick": "Xeno = foreign, lithic = rock"
+  },
+  {
+    "word": "Xenagogue",
+    "meaning": "Guide for strangers",
+    "synonyms": ["Tour guide"],
+    "trick": "Xeno = guest, agogue = guide"
+  },
+  {
+    "word": "Xanthic",
+    "meaning": "Yellow-colored",
+    "synonyms": ["Blond", "Golden"],
+    "trick": "Xanth = yellow"
+  },
+  {
+    "word": "Xenobiotic",
+    "meaning": "Chemical foreign to life system",
+    "synonyms": ["Toxin", "Drug"],
+    "trick": "Xeno = foreign, biotic = life"
+  },
+  {
+    "word": "Xenograft",
+    "meaning": "Tissue graft between species",
+    "synonyms": ["Cross-species graft"],
+    "trick": "Xeno = foreign, graft = transplant"
+  },
+  {
+    "word": "Xenophile",
+    "meaning": "Lover of foreigners",
+    "synonyms": ["Cosmopolitan"],
+    "trick": "Xeno = foreign, phile = lover"
+  },
+  {
+    "word": "Xenomania",
+    "meaning": "Excessive admiration for foreigners",
+    "synonyms": ["Obsession with foreign culture"],
+    "trick": "Xeno = foreign, mania = madness"
+  },
+  {
+    "word": "Xerarch",
+    "meaning": "Originating in dry habitat",
+    "synonyms": ["Dry origin"],
+    "trick": "Xero = dry, arch = beginning"
+  },
+  {
+    "word": "Xeric",
+    "meaning": "Dry environment",
+    "synonyms": ["Arid", "Desert-like"],
+    "trick": "Xero = dry"
+  },
+  {
+    "word": "Xenotransfusion",
+    "meaning": "Transfusion between species",
+    "synonyms": ["Inter-species transfusion"],
+    "trick": "Xeno = foreign, transfusion = blood transfer"
+  },
+  {
+    "word": "Xenoclast",
+    "meaning": "One who attacks foreign customs",
+    "synonyms": ["Bigot", "Nationalist"],
+    "trick": "Xeno = foreign, clast = breaker"
+  },
+  {
+    "word": "Xenobiology",
+    "meaning": "Study of alien life",
+    "synonyms": ["Astrobiology"],
+    "trick": "Xeno = alien, bio = life"
+  },
+  {
+    "word": "Xylophone",
+    "meaning": "Musical instrument made of wood bars",
+    "synonyms": ["Percussion instrument"],
+    "trick": "Xylo = wood, phone = sound"
+  }
+  ,
+  {
+    "word": "Yearn",
+    "meaning": "To have a strong desire or longing",
+    "synonyms": ["Crave", "Desire", "Long"],
+    "trick": "Yearn = Yaad + Learn → Jab yaad aata hai, seekhne ki ichha hoti hai"
+  },
+  {
+    "word": "Yield",
+    "meaning": "To produce or provide; to give in",
+    "synonyms": ["Surrender", "Submit", "Generate"],
+    "trick": "Yield = Field → Field se output (fasal) yield hoti hai"
+  },
+  {
+    "word": "Yoke",
+    "meaning": "To join together; a burden",
+    "synonyms": ["Bind", "Join", "Burden"],
+    "trick": "Yoke = Joke ka opposite → Joke free karta hai, yoke jodta hai"
+  },
+  {
+    "word": "Yell",
+    "meaning": "To shout loudly",
+    "synonyms": ["Shout", "Scream", "Howl"],
+    "trick": "Yell = L for Loud → Chillana"
+  },
+  {
+    "word": "Yen",
+    "meaning": "A strong desire or craving",
+    "synonyms": ["Longing", "Craving", "Urge"],
+    "trick": "Yen = Jab mann kare kuch khaas → 'Yen' sabko hoti hai"
+  },
+  {
+    "word": "Yonder",
+    "meaning": "At some distance in the direction indicated",
+    "synonyms": ["Far", "Distant", "Remote"],
+    "trick": "Yonder = 'Over yonder hill' → Dur se dikh raha hai"
+  },
+  {
+    "word": "Yowl",
+    "meaning": "A loud cry or wail",
+    "synonyms": ["Howl", "Shriek", "Cry"],
+    "trick": "Yowl = Owl ki awaz → Chillana"
+  },
+  {
+    "word": "Yawp",
+    "meaning": "A harsh or hoarse cry",
+    "synonyms": ["Shout", "Bawl", "Cry"],
+    "trick": "Yawp sounds like 'Yap' → Bhaukna"
+  },
+  {
+    "word": "Yank",
+    "meaning": "To pull suddenly or forcefully",
+    "synonyms": ["Tug", "Jerk", "Drag"],
+    "trick": "Yank = Tank ko kheechna → Forceful pull"
+  },
+  {
+    "word": "Yahoo",
+    "meaning": "A rude or noisy person",
+    "synonyms": ["Lout", "Boor", "Rowdy"],
+    "trick": "Yahoo = Jis tarah log chillate hai → Badtameez"
+  },
+  {
+    "word": "Yucky",
+    "meaning": "Disgusting or unpleasant",
+    "synonyms": ["Gross", "Nasty", "Offensive"],
+    "trick": "Yuck! keh ke thukna → Yucky!"
+  },
+  {
+    "word": "Yardstick",
+    "meaning": "Standard for comparison",
+    "synonyms": ["Benchmark", "Standard", "Measure"],
+    "trick": "Yardstick = Yard + Stick → Napi jaati hai usse"
+  },
+  {
+    "word": "Yenning",
+    "meaning": "Having a yearning or desire",
+    "synonyms": ["Desiring", "Craving", "Wanting"],
+    "trick": "Yenning = Wanting = Lalach"
+  },
+  {
+    "word": "Yeoman",
+    "meaning": "A hardworking, loyal servant",
+    "synonyms": ["Servant", "Worker", "Assistant"],
+    "trick": "Yeoman = Yo + Man! Always ready to help"
+  },
+  {
+    "word": "Yester",
+    "meaning": "Of yesterday",
+    "synonyms": ["Past", "Previous", "Earlier"],
+    "trick": "Yester-day → Kal ka"
+  },
+  {
+    "word": "Yclept",
+    "meaning": "Named or called",
+    "synonyms": ["Called", "Named", "Designated"],
+    "trick": "Ye clap → Naam suna gaya"
+  },
+  {
+    "word": "Yenful",
+    "meaning": "Full of yearning",
+    "synonyms": ["Desirous", "Craving", "Eager"],
+    "trick": "Yen + full → Desire se full"
+  },
+  {
+    "word": "Yammer",
+    "meaning": "Talk foolishly or complain whiningly",
+    "synonyms": ["Whine", "Complain", "Babble"],
+    "trick": "Yammer = Hammer jaisa complain → Dimag pe marti baatein"
+  },
+  {
+    "word": "Yaffle",
+    "meaning": "To eat or drink noisily",
+    "synonyms": ["Gobble", "Chomp", "Slurp"],
+    "trick": "Yaffle = Laugh + Eat → Haste haste zor se khana"
+  },
+  {
+    "word": "Yip",
+    "meaning": "A short, sharp cry or yelp",
+    "synonyms": ["Yelp", "Cry", "Whimper"],
+    "trick": "Yip = Puppy ki awaaz"
+  },
+  {
+    "word": "Yabber",
+    "meaning": "Talk continuously or foolishly",
+    "synonyms": ["Babble", "Chatter", "Talk"],
+    "trick": "Yabber = Jabber → Bakar bakar"
+  },
+  {
+    "word": "Yenningly",
+    "meaning": "In a yearning manner",
+    "synonyms": ["Desiringly", "Cravingly"],
+    "trick": "Yen + ly = Tarike se chahana"
+  },
+  {
+    "word": "Yack",
+    "meaning": "Idle talk",
+    "synonyms": ["Chatter", "Gossip", "Blabber"],
+    "trick": "Yack = Talk bakwaas"
+  },
+  {
+    "word": "Yesteryear",
+    "meaning": "A time in the past",
+    "synonyms": ["Past", "History", "Bygone"],
+    "trick": "Yester + year → Purane dino"
+  },
+  {
+    "word": "Yondermost",
+    "meaning": "Farthest away",
+    "synonyms": ["Most distant", "Remotest"],
+    "trick": "Yonder + Most → Sabse door"
+  },
+  {
+    "word": "Yesternight",
+    "meaning": "Last night",
+    "synonyms": ["Previous night", "Yesterday night"],
+    "trick": "Yester + night = Kal raat"
+  },
+  {
+    "word": "Yonderly",
+    "meaning": "Absent-minded or dreamy",
+    "synonyms": ["Distracted", "Lost", "Dreamy"],
+    "trick": "Yonderly = Mind dur gaya"
+  },
+  {
+    "word": "Yttrium",
+    "meaning": "A chemical element",
+    "synonyms": ["Element", "Metal"],
+    "trick": "Science me use hota hai – element ka naam yaad rakhna"
+  },
+  {
+    "word": "Yokemate",
+    "meaning": "Companion or associate",
+    "synonyms": ["Partner", "Ally", "Associate"],
+    "trick": "Yoke + Mate → Joda hua sathi"
+  },
+  {
+    "word": "Yeti",
+    "meaning": "A legendary ape-like creature",
+    "synonyms": ["Abominable snowman", "Mythical creature"],
+    "trick": "Yeti = Pahado ka monster"
+  }, 
+  {
+    "word": "Zeal",
+    "meaning": "Great enthusiasm or passion",
+    "synonyms": ["Eagerness", "Fervor", "Ardor"],
+    "trick": "Zeal ka feel – full josh aur passion se kaam"
+  },
+  {
+    "word": "Zealous",
+    "meaning": "Filled with or showing a strong enthusiasm",
+    "synonyms": ["Enthusiastic", "Eager", "Passionate"],
+    "trick": "Zealous = Jealous log bhi itna passion nahi dikhate"
+  },
+  {
+    "word": "Zenith",
+    "meaning": "The highest point or peak",
+    "synonyms": ["Pinnacle", "Summit", "Apex"],
+    "trick": "Zenith = top of the height, jaise mountain ka peak"
+  },
+  {
+    "word": "Zany",
+    "meaning": "Amusingly unconventional and idiosyncratic",
+    "synonyms": ["Clownish", "Crazy", "Weird"],
+    "trick": "Zany = Zameen se juda nahi – crazy and odd"
+  },
+  {
+    "word": "Zest",
+    "meaning": "Great enjoyment, excitement, or interest",
+    "synonyms": ["Enthusiasm", "Gusto", "Eagerness"],
+    "trick": "Zest toothpaste ki tarah fresh energy wala"
+  },
+  {
+    "word": "Zilch",
+    "meaning": "Nothing; zero",
+    "synonyms": ["Nil", "None", "Naught"],
+    "trick": "Zilch = Zero + Null = kuch bhi nahi"
+  },
+  {
+    "word": "Zoom",
+    "meaning": "To move or increase quickly",
+    "synonyms": ["Speed", "Soar", "Surge"],
+    "trick": "Zoom car – tezi se badhna"
+  },
+  {
+    "word": "Zodiac",
+    "meaning": "A system of twelve signs used in astrology",
+    "synonyms": ["Astrological signs", "Constellation"],
+    "trick": "Zodiac = Jaise zodiac killer – related to stars and symbols"
+  },
+  {
+    "word": "Zapper",
+    "meaning": "A device that destroys or eliminates something",
+    "synonyms": ["Eliminator", "Destroyer"],
+    "trick": "Bug zapper – machhar uda dene wala"
+  },
+  {
+    "word": "Zeppelin",
+    "meaning": "A type of rigid airship",
+    "synonyms": ["Airship", "Dirigible"],
+    "trick": "Zeppelin = airship upar udta hua – Led Zeppelin band bhi flying sound"
+  },
+  {
+    "word": "Zinger",
+    "meaning": "A quick, witty, or pointed remark",
+    "synonyms": ["Quip", "Witticism", "One-liner"],
+    "trick": "Zinger = zing wala answer – teekha and smart"
+  },
+  {
+    "word": "Zigzag",
+    "meaning": "A line or course that moves back and forth",
+    "synonyms": ["Twisting", "Winding", "Crooked"],
+    "trick": "Zigzag = Jhagmag wali line – seedha nahi"
+  },
+  {
+    "word": "Zymurgy",
+    "meaning": "Branch of chemistry dealing with fermentation",
+    "synonyms": ["Fermentation science", "Brewing"],
+    "trick": "Zym = enzyme, urgy = energy... fermentation wali chemistry"
+  },
+  {
+    "word": "Zestful",
+    "meaning": "Full of energy and enthusiasm",
+    "synonyms": ["Lively", "Spirited", "Energetic"],
+    "trick": "Zest toothpaste se jaisa fresh aur energetic feel"
+  },
+  {
+    "word": "Zillion",
+    "meaning": "An extremely large number",
+    "synonyms": ["Countless", "Innumerable"],
+    "trick": "Zillion = so many that count karna mushkil"
+  },
+  {
+    "word": "Zookeeper",
+    "meaning": "A person who manages animals in a zoo",
+    "synonyms": ["Caretaker", "Animal keeper"],
+    "trick": "Zoo + keeper = zoo sambhalne wala"
+  },
+  {
+    "word": "Zoology",
+    "meaning": "The scientific study of animals",
+    "synonyms": ["Animal science", "Fauna study"],
+    "trick": "Zoology = Zoo wali study"
+  },
+  {
+    "word": "Zircon",
+    "meaning": "A mineral used as a gemstone",
+    "synonyms": ["Gem", "Crystal"],
+    "trick": "Zircon = shining stone like diamond"
+  },
+  {
+    "word": "Zippy",
+    "meaning": "Bright, fresh, or lively",
+    "synonyms": ["Energetic", "Quick", "Snappy"],
+    "trick": "Zippy = zip zip – tezi se bhara"
+  },
+  {
+    "word": "Zonal",
+    "meaning": "Relating to a zone or area",
+    "synonyms": ["Regional", "District-based"],
+    "trick": "Zonal offices – region based"
+  },
+  {
+    "word": "Zebra",
+    "meaning": "An African wild animal with black-and-white stripes",
+    "synonyms": ["Striped horse", "Equine"],
+    "trick": "Zebra crossing yaad rakh le"
+  },
+  {
+    "word": "Zymology",
+    "meaning": "The study of fermentation",
+    "synonyms": ["Zymurgy", "Brewing science"],
+    "trick": "Zymo = fermentation, logy = study"
+  },
+  {
+    "word": "Zappy",
+    "meaning": "Lively and energetic",
+    "synonyms": ["Peppy", "Zesty", "Vibrant"],
+    "trick": "Zappy = energy se bharpoor"
+  },
+  {
+    "word": "Zillionaire",
+    "meaning": "A person with immeasurable wealth",
+    "synonyms": ["Extremely rich", "Tycoon"],
+    "trick": "Zillion + millionaire = super rich"
+  },
+  {
+    "word": "Zymase",
+    "meaning": "An enzyme that helps in fermentation",
+    "synonyms": ["Enzyme", "Catalyst"],
+    "trick": "Zymase = zym + base, fermentation enzyme"
+  },
+  {
+    "word": "Zander",
+    "meaning": "A species of fish",
+    "synonyms": ["Fish", "Pike-perch"],
+    "trick": "Zander = under water rehne wala fish"
+  },
+  {
+    "word": "Zarzuela",
+    "meaning": "A Spanish lyric-dramatic genre",
+    "synonyms": ["Musical play", "Opera"],
+    "trick": "Zarzuela = zara zyada musical drama"
+  },
+  {
+    "word": "Zorbing",
+    "meaning": "Rolling downhill inside a giant inflatable ball",
+    "synonyms": ["Recreational activity", "Adventure sport"],
+    "trick": "Zorbing = zor se roll hona"
+  },
+  {
+    "word": "Zebu",
+    "meaning": "A type of domestic cattle",
+    "synonyms": ["Humped cow", "Brahman cattle"],
+    "trick": "Zebu = gaay jaise hota hai"
+  },
+  {
+    "word": "Zootopia",
+    "meaning": "A fictional city of anthropomorphic animals",
+    "synonyms": ["Fictional world", "Animated city"],
+    "trick": "Zootopia = zoo + utopia – janwaron ka sapno ka sheher"
+  }
+
+  
+]
